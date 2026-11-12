@@ -1,0 +1,23 @@
+* @okdesign21
+
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/*.dockerfile @okdesign21
+/Pipfile.lock @okdesign21
+/action.yaml @okdesign21
+/action.yml @okdesign21
+/pyproject.toml @okdesign21
+/requirements.txt @okdesign21
+/setup.cfg @okdesign21
+/setup.py @okdesign21
+/Dockerfile @okdesign21
+/Pipfile @okdesign21
+/Dockerfile.* @okdesign21
+/requirements/*.txt @okdesign21
+/.github/workflows/*.yaml @okdesign21
+/.github/workflows/*.yml @okdesign21
+/**/*.dockerfile @okdesign21
+/**/Dockerfile.* @okdesign21
+/**/requirements/*.txt @okdesign21
+/**/.github/workflows/*.yaml @okdesign21
+/**/.github/workflows/*.yml @okdesign21

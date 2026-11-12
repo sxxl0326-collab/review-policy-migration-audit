@@ -1,0 +1,126 @@
+{
+  "repo": "alphagov/govuk-frontend",
+  "index": 111,
+  "start": "2025-05-15T08:54:22+00:00",
+  "end": "2025-08-13T08:54:22+00:00",
+  "branch": "main",
+  "migration": "https://github.com/alphagov/govuk-frontend/pull/5960",
+  "selected": [
+    "https://github.com/alphagov/govuk-frontend/pull/5975",
+    "https://github.com/alphagov/govuk-frontend/pull/5976",
+    "https://github.com/alphagov/govuk-frontend/pull/5985"
+  ],
+  "records": [
+    {
+      "url": "https://github.com/alphagov/govuk-frontend/pull/5975",
+      "author": "romaricpascal",
+      "old": [],
+      "new": [],
+      "raw": [],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "CHANGELOG.md"
+        ]
+      ],
+      "base": "281749ab9d65e0af2c1f836d57f6512520fc1200",
+      "requests": []
+    },
+    {
+      "url": "https://github.com/alphagov/govuk-frontend/pull/5976",
+      "author": "romaricpascal",
+      "old": [],
+      "new": [
+        "@alphagov/design-system-developers"
+      ],
+      "raw": [
+        "@alphagov/design-system-developers"
+      ],
+      "adjusted": [
+        "@alphagov/design-system-developers"
+      ],
+      "paths": [
+        [
+          null,
+          "CHANGELOG.md"
+        ],
+        [
+          null,
+          "dist/VERSION.txt"
+        ],
+        [
+          null,
+          "dist/assets/rebrand/images/favicon.ico"
+        ],
+        [
+          null,
+          "dist/govuk-frontend-5.10.0.min.css"
+        ],
+        [
+          null,
+          "dist/govuk-frontend-5.10.0.min.css.map"
+        ],
+        [
+          null,
+          "dist/govuk-frontend-5.10.0.min.js"
+        ],
+        [
+          null,
+          "dist/govuk-frontend-5.10.0.min.js.map"
+        ],
+        [
+          null,
+          "dist/govuk-frontend-5.10.1.min.css"
+        ],
+        [
+          null,
+          "dist/govuk-frontend-5.10.1.min.css.map"
+        ],
+        [
+          null,
+          "dist/govuk-frontend-5.10.1.min.js"
+        ],
+        [
+          null,
+          "dist/govuk-frontend-5.10.1.min.js.map"
+        ],
+        [
+          null,
+          "package-lock.json"
+        ],
+        [
+          null,
+          "packages/govuk-frontend/package.json"
+        ]
+      ],
+      "base": "99009758c3057b2a537f960e6c0657bf5959387e",
+      "requests": [
+        {
+          "event": "review_requested",
+          "requested_reviewer": null,
+          "requested_team": {
+            "slug": "design-system-developers"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/alphagov/govuk-frontend/pull/5985",
+      "author": "romaricpascal",
+      "old": [],
+      "new": [],
+      "raw": [],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "CHANGELOG.md"
+        ]
+      ],
+      "base": "9a1c485b624283280895adc6a0299a0fc0e42e47",
+      "requests": []
+    }
+  ],
+  "query": "repo:alphagov/govuk-frontend is:pr is:merged base:main created:>2025-05-15T08:54:22Z merged:<=2025-08-13T08:54:22Z"
+}

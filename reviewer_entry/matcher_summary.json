@@ -1,0 +1,40 @@
+{
+  "cases": 24,
+  "passed": 24,
+  "failed": [],
+  "categories": {
+    "location": 4,
+    "last_match": 4,
+    "case": 4,
+    "empty_owner": 3,
+    "unsupported_syntax": 3,
+    "explicit_base_snapshot": 3,
+    "spaces_and_anchor": 3
+  },
+  "independent_Go_membership_checks": 0,
+  "independent_Go_passed": 0,
+  "independent_Go_results": [],
+  "oracle": "AI-authored explicit expected sets grounded in GitHub documentation; not human adjudication and not learned from replay outputs",
+  "unsupported_syntax": "3 cases correctly stop with UNKNOWN; GitHub instead skips invalid lines. These are conservative refusal tests, not backend-output matches.",
+  "base_branch_scope": "3 tests load explicitly supplied base snapshots; they do not test GitHub live branch discovery.",
+  "original_runtime_unchanged": true,
+  "original_runtime_hashes": {
+    "actor_router.py": "2cfc548966b70ef20d6e23f95bf0faf6fcc97c5ae39a0aa69390e566f23da6ea",
+    "independent_cohort.py": "c4c3e64e2629be7d83115476f8cc13b33a1934fc88c33e375a33547d14ffc8e0",
+    "manifest_predicate.py": "64195026002179204778eac6ba2b4f78de37bb36bdda2649ba58ee885b327c0c",
+    "platform_matching.py": "257a111b055405f509a790b9ed589a6ed4302c65afa16c793b7d730b4b73090f",
+    "retirement.py": "4ee7d520131b0aaeeb9029ff85689e6989dc78dd16956b258b47a0704ac8e04d",
+    "run_controls.py": "63f80326ee3c19a6bbde4d0bf33937673a538dd0f5345a7af3e70ea5131acbea"
+  },
+  "validator_sha256": "4e71fcc686ad4f275a2fe9af0e3290a443e2907b07bd946f174109d5c057cda5",
+  "network_calls": 0,
+  "paid_API_calls": 0,
+  "Go_notowned_experiment_status": "NOT_A_MEMBERSHIP_ORACLE: upstream checker unions patterns while ignoring owner membership and precedence. The preserved legacy diagnostic had 7/13 apparent matches; these are not semantic validation.",
+  "Go_source_evidence": "semantic_tests/upstream/not_owned_file.go: patternsToBeIgnored appends every pattern; owners and winning rules do not affect the notowned test.",
+  "independent_node_cases": 21,
+  "independent_node_passed": 21,
+  "node_ignore_version": "5.3.2",
+  "node_ignore_entry_sha256": "e9b9c1096d5425d2c77bca01085a335a92f9a15f37d29d0554697a367fb05cab",
+  "overall_supported_oracles_passed": true,
+  "scope": "24 explicit oracles:21 supported set outcomes and3 conservative UNKNOWN outcomes.21 supported outcomes additionally agree with a distinct node-ignore implementation. No claim of full GitHub server equivalence."
+}

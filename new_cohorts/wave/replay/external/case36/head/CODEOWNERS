@@ -1,0 +1,29 @@
+# CODEOWNERS for Quantum-L9/Cursor-Governance
+#
+# AUTO-REQUEST DISABLED (solo maintainer): live @owner lines cause GitHub to
+# automatically request review on every PR (Dependabot included). There is no
+# repository API/setting to turn that off while keeping live owners.
+# Ownership map retained below as comments for humans; re-enable @owners when
+# a second reviewer joins.
+#
+# Note: this file only governs THIS repo. It does not cascade org-wide.
+#
+
+# *                                       @cryptoxdog
+# /CANONICAL_LAW.md                      @cryptoxdog
+# /ops/scripts/resolve_governance_paths.sh @cryptoxdog
+# /ops/scripts/backup_to_github.sh       @cryptoxdog
+# /ops/hooks/session_start_bootstrap.sh  @cryptoxdog
+# /ops/scripts/_archived/                @cryptoxdog
+# /pyproject.toml                        @cryptoxdog
+# /AGENTS.md                             @cryptoxdog
+# /ORG_INVARIANTS.yaml                   @cryptoxdog
+# /README.md                             @cryptoxdog
+# /LICENSE                               @cryptoxdog
+# /CODEOWNERS                            @cryptoxdog
+# /Makefile                              @cryptoxdog
+# /requirements.txt                      @cryptoxdog
+# /conftest.py                           @cryptoxdog
+# /ops/config/root-file-protection.json  @cryptoxdog
+# /ops/scripts/validate_root_file_protection.py @cryptoxdog
+# /biome.json                            @cryptoxdog

@@ -1,0 +1,29 @@
+# CODEOWNERS — Discovery Catalog
+#
+# Each line is a file pattern followed by one or more owners. Order matters:
+# later patterns take precedence over earlier ones. Owners listed for a
+# path are auto-requested for review on any PR that touches the path.
+#
+# See https://docs.github.com/en/repositories/managing-your-repositories-settings-and-customization/customizing-your-repository/about-code-owners
+
+# Maintainers own every path unless a later rule overrides this default,
+# including workflows, validation policy, schemas, and generated registries.
+*                                      @microsoft/discovery-samples-maintainer
+
+# Contributions reviewers can approve changes to tests (some internal agents come with tests)
+/.github/tests/                        @microsoft/discovery-samples-maintainer @microsoft/discovery-contributions-reviewers
+
+# Contributions reviewers can approve Dependabot updates to CI Python deps and the code-scanning tool pin.
+/.github/requirements-ci.txt           @microsoft/discovery-samples-maintainer @microsoft/discovery-contributions-reviewers
+/.config/dotnet-tools.json             @microsoft/discovery-samples-maintainer @microsoft/discovery-contributions-reviewers
+
+# Operator utilities are reviewed by the engineering reviewers.
+/utilities/                            @microsoft/discovery-engineering-reviewers
+
+# Discovery Toolbox is maintained separately from the other utilities.
+# Releases require maintainer review; REL-002 verifies the VSIX pointer and digest.
+/utilities/discovery-toolbox/           @microsoft/discovery-samples-maintainer
+
+# Any of the reviewers/maintainers can review/approve agents and starter-kits
+/agents/                                @microsoft/discovery-samples-maintainer @microsoft/discovery-contributions-reviewers
+/starter-kits/                          @microsoft/discovery-samples-maintainer @microsoft/discovery-contributions-reviewers

@@ -1,0 +1,1248 @@
+{
+  "created_utc": "2026-10-27T11:57:57.440110+00:00",
+  "pool_count": 2563,
+  "title_eligible_namespaces": 169,
+  "selected_n": 100,
+  "excluded_prior_namespaces": [
+    "9teve-o",
+    "abrondijk",
+    "andrewjw",
+    "aries-serpent",
+    "automattic",
+    "aws-powertools",
+    "azure",
+    "baderalhindi",
+    "bartytime4life",
+    "ben-ranford",
+    "blackwhitehere",
+    "bleus0sa",
+    "bpm-crafters",
+    "cascadiacollections",
+    "cboyd0319",
+    "cemroot",
+    "coldcrabby",
+    "defenseunicorns",
+    "deploygate",
+    "devnullltd",
+    "disburs",
+    "ditto190",
+    "djayamah",
+    "dknauss",
+    "dsacms",
+    "eng618",
+    "ephios-dev",
+    "fabriutola-hub",
+    "first-tree-ai",
+    "genzouw",
+    "github",
+    "goosterhof",
+    "gravitek-io",
+    "hevel86",
+    "hiro0218",
+    "huttonhomehub",
+    "idvoretskyi",
+    "igas",
+    "ikuwow",
+    "joomla",
+    "jotoho",
+    "kaushik-sai",
+    "keiretsu-labs",
+    "kgrizz-git",
+    "kinz-org",
+    "klodr",
+    "kmdkuk",
+    "kuonirad",
+    "localstack",
+    "loopy-lim",
+    "mahmood726-cyber",
+    "makoydev",
+    "marshmallow-insurance",
+    "masumi-network",
+    "masutaka",
+    "mik2503",
+    "millionco",
+    "mongodb-labs",
+    "multiplex-ai",
+    "nasa",
+    "neiland85-org",
+    "nordlys-labs",
+    "opencontainers",
+    "opensafely-core",
+    "openshift-pipelines",
+    "openviglet",
+    "ossf",
+    "p2p-org",
+    "p5-wrapper",
+    "pax8labs",
+    "periodo",
+    "reconcilerio",
+    "ricog",
+    "sam-fakhreddine",
+    "sikebe",
+    "simonsobs",
+    "skriptfabrik",
+    "spark-match",
+    "spring-ai-community",
+    "stefruseva88",
+    "stsoftwareau",
+    "tackeyy",
+    "terraform-ibm-modules",
+    "tesseractaz",
+    "tier4",
+    "tldr-pages",
+    "two-weeks-team",
+    "tzuh-hsu",
+    "uasal",
+    "universal-commerce-protocol",
+    "vinderornitier",
+    "waffle-finance",
+    "whipedev",
+    "windsorcli",
+    "wpengine",
+    "wyattanderson",
+    "y-miyazaki",
+    "zahirinatzuke"
+  ],
+  "selection_rule": "SHA256(20261027|namespace), one SHA256-ordered migration-focused-title PR per namespace; full fixed cohort, no outcome replacement",
+  "plan_sha256": "4bbe0c289732f6fad740de30652030ec8f1a74253e643e28c1c08a27708a02cc",
+  "source_records": [
+    {
+      "file": "d2665dfa7abacabb19dafc7b.json",
+      "sha256": "9361176996020ca99877da6e058bf3cf642a642ae17eccf46b7a57084fa73a41"
+    },
+    {
+      "file": "043fa2d6b5214e42fef474ee.json",
+      "sha256": "2ef9fc78bfb6dcf654f70e94c6704f8a1268003f0446bdab5d5fd8bd97afca01"
+    },
+    {
+      "file": "e737dd2609ec7e099472db0b.json",
+      "sha256": "faf58ea324bfdd8d5588dc32eb5ba51b44285488cd50a5f7d28ae691d2782735"
+    },
+    {
+      "file": "b9f389cce287814e597d1f1e.json",
+      "sha256": "0b73b4ed400836710cb17f7429d6ed4751ec6b107ef94375cec6067731c51738"
+    },
+    {
+      "file": "09826e91e45087d164205ce0.json",
+      "sha256": "664b2423f41d749e30e59325dccc5f42957cb6cac3529aeccdce2d008f418fcf"
+    },
+    {
+      "file": "61db36ab3016270bf1a1879f.json",
+      "sha256": "a50f3fa485ce2e5db35e66cb6b9c15b1e3e1cccb4753ef1466dc2d83d41e297f"
+    },
+    {
+      "file": "a3267c8a16613268b8cf3e5d.json",
+      "sha256": "b1c849433ece21c71d12d1ea8d2b0fe0734503fe690a64873e2338fb7d112e1f"
+    },
+    {
+      "file": "6d231d3571332923366ff918.json",
+      "sha256": "2a0244f3a197efd0432dd104fd46f17a5806642aa00dfec0185550298439be08"
+    },
+    {
+      "file": "55b73ddef4b8e5b84fa062dc.json",
+      "sha256": "def1f843618e45bb3ea840e729717f7fb21469a62cb80470c7fd6bcc094583c0"
+    },
+    {
+      "file": "aff11b875ae4cdd6e839aee4.json",
+      "sha256": "b35c1d815aba71b1edd470f36bb23e8b403af21da1ed855aeeae911c5952859d"
+    },
+    {
+      "file": "fec341ca3ebe3750e0f7a0d8.json",
+      "sha256": "893ff416564835b6f8aff9d9633e74973ba5ee721af600c27b7b8a51da031e11"
+    },
+    {
+      "file": "2c128cc9743136605f69ed49.json",
+      "sha256": "2216b93f52e6d8f03e21884454bb00db963bec752fdba9c662ba733f11f2c458"
+    },
+    {
+      "file": "67f95c62b8c441df14150111.json",
+      "sha256": "1bc7dc83f563403787cac82ffc20a365ef543158cff69ddabd493460ecb37c5c"
+    },
+    {
+      "file": "0e648ca8e6989d45f5aa14af.json",
+      "sha256": "da87d8f19629b9aa849f271bfd27ca497f3ce34e6c3eb6cdfd76909e8d5e0e57"
+    },
+    {
+      "file": "8f362a779a6f2deb3552b736.json",
+      "sha256": "e96915d2bcd9d80133a8883c3983f5c80fa4d1d2c79da1dca2fa54387b85f371"
+    },
+    {
+      "file": "284e1e802fd391b2b4d8bf04.json",
+      "sha256": "8d9526c0cca7f49ecbd47ffdaa0fbc747c8f5d9dd7484b62fe7f4271c882a485"
+    },
+    {
+      "file": "8de1fc21d5ddc995596e0a8e.json",
+      "sha256": "ebc0b382b27a10b2fcccd4095e82942a6e88656493b649f6cde102a386649f6c"
+    },
+    {
+      "file": "b09dd20c366630ac716644ae.json",
+      "sha256": "a607c19be105fac272bd7cab097f8ee13a06d823a17d208dd92d1f2317e6104f"
+    },
+    {
+      "file": "7b5841ac41914925e81e5081.json",
+      "sha256": "e17dd1a4f4adaa7067a67463b7643c3737eed132c990c61a4c7e003622c1e6da"
+    },
+    {
+      "file": "668ccc6d6869dd550d848fb3.json",
+      "sha256": "e740738dfc150b74c9e1c973e92496541fd3c7477926cd96938558a1e49ef7a3"
+    },
+    {
+      "file": "2b35800f90a08cf5aa780956.json",
+      "sha256": "00984a5afecbd20232a3e206747be40376d99c3a35ed9c90ec6ab3213e669f89"
+    },
+    {
+      "file": "d7a3739abfa0f210c3d87603.json",
+      "sha256": "64a129a1e5e6a677ec6ae2245c93a7ad90198d3f0becaf3cede8d39c77d1a503"
+    },
+    {
+      "file": "5f21658c37a31430d8804dde.json",
+      "sha256": "e0d3f7eec0d9d49233f9e349a604e9a2b1567b816853c48614eca4da7ecd1419"
+    },
+    {
+      "file": "9aefe5f046745b5f1aad8dc6.json",
+      "sha256": "c94d905c04d49e13a797be24f96aaae63600cc1ff9732b4193fd9a83005d068b"
+    },
+    {
+      "file": "7e3e980cd3786ddceb6000cc.json",
+      "sha256": "d49b22a190889335ccacdcf00a8e7d08d98d2266292132b18eb15bbea9bb226b"
+    },
+    {
+      "file": "50a7812e6ccace5b38b86f41.json",
+      "sha256": "48d21a9cbc36b067359968e73d7c32292469f9d109d12757f928f1e4bbabe7b4"
+    },
+    {
+      "file": "5bf63d033573148a9f35c441.json",
+      "sha256": "bcac09e599b4ba0c63aff0de33beaa8f0567abcd35d3f449a1974929a01c0ba5"
+    },
+    {
+      "file": "cc0a338f3e86408e0356a1d1.json",
+      "sha256": "ae011e1b475e6831425f8b605b2a0bc389dca3da87ffcd620bde558b8fc92c63"
+    },
+    {
+      "file": "983b42beeca05704f60f9438.json",
+      "sha256": "625c3ed78ba5b9049a1034813bd9e0f76898737152f1d59610129e1bf28ebdf4"
+    },
+    {
+      "file": "52d82761fbc0c929a8604ebb.json",
+      "sha256": "c7d1b781b7d938b4a8834440b40105a10c71e987ab9e50d7a2d5482990f71c69"
+    },
+    {
+      "file": "143d6300e07fa1c8a613d40b.json",
+      "sha256": "4827f453f9e487043f99e3d5fd9c870cbc0b53ec6f83ef97a14369a88947a966"
+    },
+    {
+      "file": "4e51ffd10f77b0a0205658c6.json",
+      "sha256": "8e8dd84e086e3eee81898895d830bbd11e5bcf03d612975971deffd8ea99406e"
+    },
+    {
+      "file": "9076fa41f0c9e260003ba1a3.json",
+      "sha256": "65409b5d6c04147ed5545c92566f3983c2163a0f64c15c344665eb49c684d1bc"
+    },
+    {
+      "file": "2f4ba271f233017d591edd31.json",
+      "sha256": "5e443167a3a4ed243db8510f13408a42c120c731b41124f61b8a953bb4809805"
+    }
+  ],
+  "selected": [
+    {
+      "index": 1,
+      "repo": "increments/qiita-cli",
+      "namespace": "increments",
+      "number": 272,
+      "url": "https://github.com/increments/qiita-cli/pull/272",
+      "pr_api": "https://api.github.com/repos/increments/qiita-cli/pulls/272",
+      "title": "Add code owners and remove reviewers from dependabot",
+      "created_at": "2025-05-23T05:11:04Z"
+    },
+    {
+      "index": 2,
+      "repo": "Rasheed-bannister/family_calendar",
+      "namespace": "rasheed-bannister",
+      "number": 96,
+      "url": "https://github.com/Rasheed-bannister/family_calendar/pull/96",
+      "pr_api": "https://api.github.com/repos/Rasheed-bannister/family_calendar/pulls/96",
+      "title": "chore(ci): drop dead tool install and retired dependabot reviewers key; fix stale pip constraint",
+      "created_at": "2026-08-05T17:44:50Z"
+    },
+    {
+      "index": 3,
+      "repo": "Aarklendoia/kio-protondrive",
+      "namespace": "aarklendoia",
+      "number": 121,
+      "url": "https://github.com/Aarklendoia/kio-protondrive/pull/121",
+      "pr_api": "https://api.github.com/repos/Aarklendoia/kio-protondrive/pulls/121",
+      "title": "ci(dependabot): drop the removed reviewers key, fix commit prefixes",
+      "created_at": "2026-10-05T13:58:22Z"
+    },
+    {
+      "index": 4,
+      "repo": "arfc/moltres",
+      "namespace": "arfc",
+      "number": 312,
+      "url": "https://github.com/arfc/moltres/pull/312",
+      "pr_api": "https://api.github.com/repos/arfc/moltres/pulls/312",
+      "title": "Remove deprecated reviewer configuration option in dependabot.yml",
+      "created_at": "2025-08-01T20:06:16Z"
+    },
+    {
+      "index": 5,
+      "repo": "w0rmr1d3r/cloner",
+      "namespace": "w0rmr1d3r",
+      "number": 426,
+      "url": "https://github.com/w0rmr1d3r/cloner/pull/426",
+      "pr_api": "https://api.github.com/repos/w0rmr1d3r/cloner/pulls/426",
+      "title": "Remove reviewers property in dependabot",
+      "created_at": "2025-06-05T10:31:34Z"
+    },
+    {
+      "index": 6,
+      "repo": "Coding-Dev-Tools/api-contract-guardian",
+      "namespace": "coding-dev-tools",
+      "number": 75,
+      "url": "https://github.com/Coding-Dev-Tools/api-contract-guardian/pull/75",
+      "pr_api": "https://api.github.com/repos/Coding-Dev-Tools/api-contract-guardian/pulls/75",
+      "title": "fix(ci): remove nonexistent assignees from dependabot and update CODEOWNERS",
+      "created_at": "2026-10-13T05:49:53Z"
+    },
+    {
+      "index": 7,
+      "repo": "camisinc/action-slack-user",
+      "namespace": "camisinc",
+      "number": 47,
+      "url": "https://github.com/camisinc/action-slack-user/pull/47",
+      "pr_api": "https://api.github.com/repos/camisinc/action-slack-user/pulls/47",
+      "title": "CAM-23287 - remove reviewers from dependabot.yml, apply old dependabot.yml reviewers to CODEOWNERS",
+      "created_at": "2025-07-02T18:55:52Z"
+    },
+    {
+      "index": 8,
+      "repo": "bbc/simorgh",
+      "namespace": "bbc",
+      "number": 12852,
+      "url": "https://github.com/bbc/simorgh/pull/12852",
+      "pr_api": "https://api.github.com/repos/bbc/simorgh/pulls/12852",
+      "title": "Use CODEOWNERS file instead of reviewers field in dependabot.yml",
+      "created_at": "2025-06-03T14:25:54Z"
+    },
+    {
+      "index": 9,
+      "repo": "A-iCan/AiCan_2.0",
+      "namespace": "a-ican",
+      "number": 271,
+      "url": "https://github.com/A-iCan/AiCan_2.0/pull/271",
+      "pr_api": "https://api.github.com/repos/A-iCan/AiCan_2.0/pulls/271",
+      "title": "SOP_v13: enable GHAS/CI baseline \u2014 CodeQL, CI, Dependabot, pre-commit, CODEOWNERS",
+      "created_at": "2025-10-30T13:16:04Z"
+    },
+    {
+      "index": 10,
+      "repo": "SukramJ/homematicip-local-frontend",
+      "namespace": "sukramj",
+      "number": 86,
+      "url": "https://github.com/SukramJ/homematicip-local-frontend/pull/86",
+      "pr_api": "https://api.github.com/repos/SukramJ/homematicip-local-frontend/pulls/86",
+      "title": "chore(ci): stagger Dependabot cooldown by bump type, move reviewers to CODEOWNERS",
+      "created_at": "2026-07-30T08:51:44Z"
+    },
+    {
+      "index": 11,
+      "repo": "shchilkin/PopChoice",
+      "namespace": "shchilkin",
+      "number": 98,
+      "url": "https://github.com/shchilkin/PopChoice/pull/98",
+      "pr_api": "https://api.github.com/repos/shchilkin/PopChoice/pulls/98",
+      "title": "Remove deprecated reviewers field from dependabot.yml and add CODEOWNERS file",
+      "created_at": "2025-08-05T11:18:23Z"
+    },
+    {
+      "index": 12,
+      "repo": "v-sachin-sandhu/tauri-ahq-store",
+      "namespace": "v-sachin-sandhu",
+      "number": 562,
+      "url": "https://github.com/v-sachin-sandhu/tauri-ahq-store/pull/562",
+      "pr_api": "https://api.github.com/repos/v-sachin-sandhu/tauri-ahq-store/pulls/562",
+      "title": "Sync Dependabot Reviewers to CODEOWNERS",
+      "created_at": "2025-07-16T23:55:52Z"
+    },
+    {
+      "index": 13,
+      "repo": "ministryofjustice/legal-framework-api",
+      "namespace": "ministryofjustice",
+      "number": 1572,
+      "url": "https://github.com/ministryofjustice/legal-framework-api/pull/1572",
+      "pr_api": "https://api.github.com/repos/ministryofjustice/legal-framework-api/pulls/1572",
+      "title": "Chore: Remove dependabot reviewers config",
+      "created_at": "2025-05-06T13:11:08Z"
+    },
+    {
+      "index": 14,
+      "repo": "mrz1836/go-countries",
+      "namespace": "mrz1836",
+      "number": 111,
+      "url": "https://github.com/mrz1836/go-countries/pull/111",
+      "pr_api": "https://api.github.com/repos/mrz1836/go-countries/pulls/111",
+      "title": "[CI] Remove reviewers from Dependabot config",
+      "created_at": "2025-06-10T13:17:56Z"
+    },
+    {
+      "index": 15,
+      "repo": "powerapi-ng/powerapi",
+      "namespace": "powerapi-ng",
+      "number": 613,
+      "url": "https://github.com/powerapi-ng/powerapi/pull/613",
+      "pr_api": "https://api.github.com/repos/powerapi-ng/powerapi/pulls/613",
+      "title": "ci(dependabot): Remove deprecated `reviewers` field",
+      "created_at": "2025-05-16T13:09:20Z"
+    },
+    {
+      "index": 16,
+      "repo": "UI5/linter",
+      "namespace": "ui5",
+      "number": 654,
+      "url": "https://github.com/UI5/linter/pull/654",
+      "pr_api": "https://api.github.com/repos/UI5/linter/pulls/654",
+      "title": "ci: Replace reviewers config of dependabot by CODEOWNERS file",
+      "created_at": "2025-05-09T06:47:17Z"
+    },
+    {
+      "index": 17,
+      "repo": "directus/directus",
+      "namespace": "directus",
+      "number": 25632,
+      "url": "https://github.com/directus/directus/pull/25632",
+      "pr_api": "https://api.github.com/repos/directus/directus/pulls/25632",
+      "title": "Update dependabot reviewers to platform team to match CODEOWNERS",
+      "created_at": "2025-08-06T16:53:25Z"
+    },
+    {
+      "index": 18,
+      "repo": "Suree33/blog",
+      "namespace": "suree33",
+      "number": 177,
+      "url": "https://github.com/Suree33/blog/pull/177",
+      "pr_api": "https://api.github.com/repos/Suree33/blog/pulls/177",
+      "title": "chore: add CODEOWNERS and remove reviewers from dependabot config",
+      "created_at": "2025-07-30T16:53:21Z"
+    },
+    {
+      "index": 19,
+      "repo": "Arakiss/gommage",
+      "namespace": "arakiss",
+      "number": 13,
+      "url": "https://github.com/Arakiss/gommage/pull/13",
+      "pr_api": "https://api.github.com/repos/Arakiss/gommage/pulls/13",
+      "title": "chore: governance baseline \u2014 CoC, CODEOWNERS, templates, Dependabot, justfile",
+      "created_at": "2026-04-21T13:57:05Z"
+    },
+    {
+      "index": 20,
+      "repo": "lazor-kit/lazorkit-protocol",
+      "namespace": "lazor-kit",
+      "number": 15,
+      "url": "https://github.com/lazor-kit/lazorkit-protocol/pull/15",
+      "pr_api": "https://api.github.com/repos/lazor-kit/lazorkit-protocol/pulls/15",
+      "title": "chore(repo): add CODEOWNERS, PR template, dependabot config",
+      "created_at": "2026-05-06T15:38:51Z"
+    },
+    {
+      "index": 21,
+      "repo": "aristanetworks/avd",
+      "namespace": "aristanetworks",
+      "number": 6106,
+      "url": "https://github.com/aristanetworks/avd/pull/6106",
+      "pr_api": "https://api.github.com/repos/aristanetworks/avd/pulls/6106",
+      "title": "CI: Remove reviewers file and option in dependabot",
+      "created_at": "2025-11-04T10:11:54Z"
+    },
+    {
+      "index": 22,
+      "repo": "gek0z/abe-yells-at",
+      "namespace": "gek0z",
+      "number": 7,
+      "url": "https://github.com/gek0z/abe-yells-at/pull/7",
+      "pr_api": "https://api.github.com/repos/gek0z/abe-yells-at/pulls/7",
+      "title": "chore(ci): fix Dependabot quiet-npm, CODEOWNERS, in-range range bumps",
+      "created_at": "2026-05-21T20:16:28Z"
+    },
+    {
+      "index": 23,
+      "repo": "Mabry-Ventures/mv-volumearc",
+      "namespace": "mabry-ventures",
+      "number": 33,
+      "url": "https://github.com/Mabry-Ventures/mv-volumearc/pull/33",
+      "pr_api": "https://api.github.com/repos/Mabry-Ventures/mv-volumearc/pulls/33",
+      "title": "fix(repo): add CODEOWNERS, Dependabot, PR and issue templates (VOL-78)",
+      "created_at": "2026-04-22T18:19:53Z"
+    },
+    {
+      "index": 24,
+      "repo": "noodlemctwoodle/Sentinel-As-Code-Toolkit",
+      "namespace": "noodlemctwoodle",
+      "number": 57,
+      "url": "https://github.com/noodlemctwoodle/Sentinel-As-Code-Toolkit/pull/57",
+      "pr_api": "https://api.github.com/repos/noodlemctwoodle/Sentinel-As-Code-Toolkit/pulls/57",
+      "title": "chore(github): modernise Dependabot config (conventional-commit prefixes, drop deprecated reviewers)",
+      "created_at": "2026-07-10T10:02:30Z"
+    },
+    {
+      "index": 25,
+      "repo": "Parsely/wp-parsely",
+      "namespace": "parsely",
+      "number": 3320,
+      "url": "https://github.com/Parsely/wp-parsely/pull/3320",
+      "pr_api": "https://api.github.com/repos/Parsely/wp-parsely/pulls/3320",
+      "title": "dependabot.yml: Remove reviewers option",
+      "created_at": "2025-05-08T08:46:55Z"
+    },
+    {
+      "index": 26,
+      "repo": "JSB2010/DropSentinel",
+      "namespace": "jsb2010",
+      "number": 74,
+      "url": "https://github.com/JSB2010/DropSentinel/pull/74",
+      "pr_api": "https://api.github.com/repos/JSB2010/DropSentinel/pulls/74",
+      "title": "Fix Dependabot configuration: remove reviewers deprecation and add missing labels",
+      "created_at": "2025-08-04T15:12:01Z"
+    },
+    {
+      "index": 27,
+      "repo": "accentor/game",
+      "namespace": "accentor",
+      "number": 147,
+      "url": "https://github.com/accentor/game/pull/147",
+      "pr_api": "https://api.github.com/repos/accentor/game/pulls/147",
+      "title": "Add CODEOWNERS file and remove dependabot reviewers setting",
+      "created_at": "2025-08-02T07:52:26Z"
+    },
+    {
+      "index": 28,
+      "repo": "dakotahp/agentic-insomnia",
+      "namespace": "dakotahp",
+      "number": 50,
+      "url": "https://github.com/dakotahp/agentic-insomnia/pull/50",
+      "pr_api": "https://api.github.com/repos/dakotahp/agentic-insomnia/pulls/50",
+      "title": "chore: add CODEOWNERS so dependabot requests my review",
+      "created_at": "2026-10-06T01:15:52Z"
+    },
+    {
+      "index": 29,
+      "repo": "metaneutrons/Vellum",
+      "namespace": "metaneutrons",
+      "number": 17,
+      "url": "https://github.com/metaneutrons/Vellum/pull/17",
+      "pr_api": "https://api.github.com/repos/metaneutrons/Vellum/pulls/17",
+      "title": "ci(dependabot): grouped updates, CODEOWNERS & guarded auto-merge",
+      "created_at": "2026-06-28T08:17:03Z"
+    },
+    {
+      "index": 30,
+      "repo": "mach6/go-covercheck",
+      "namespace": "mach6",
+      "number": 25,
+      "url": "https://github.com/mach6/go-covercheck/pull/25",
+      "pr_api": "https://api.github.com/repos/mach6/go-covercheck/pulls/25",
+      "title": "Remove reviewers from dependabot.yml and add CODEOWNERS file",
+      "created_at": "2025-07-27T18:25:24Z"
+    },
+    {
+      "index": 31,
+      "repo": "jasmeralia/StormFuse",
+      "namespace": "jasmeralia",
+      "number": 40,
+      "url": "https://github.com/jasmeralia/StormFuse/pull/40",
+      "pr_api": "https://api.github.com/repos/jasmeralia/StormFuse/pulls/40",
+      "title": "Fix dependabot reviewer auto-assignment via CODEOWNERS",
+      "created_at": "2026-07-13T16:32:46Z"
+    },
+    {
+      "index": 32,
+      "repo": "quynhonsemiconductor/infra-template",
+      "namespace": "quynhonsemiconductor",
+      "number": 64,
+      "url": "https://github.com/quynhonsemiconductor/infra-template/pull/64",
+      "pr_api": "https://api.github.com/repos/quynhonsemiconductor/infra-template/pulls/64",
+      "title": "chore(deps): group Dependabot updates and drop the dead reviewers key",
+      "created_at": "2026-09-08T17:34:25Z"
+    },
+    {
+      "index": 33,
+      "repo": "graphprotocol/rewards-eligibility-oracle",
+      "namespace": "graphprotocol",
+      "number": 26,
+      "url": "https://github.com/graphprotocol/rewards-eligibility-oracle/pull/26",
+      "pr_api": "https://api.github.com/repos/graphprotocol/rewards-eligibility-oracle/pulls/26",
+      "title": "fix: update Dependabot config and add CODEOWNERS",
+      "created_at": "2025-07-31T20:34:36Z"
+    },
+    {
+      "index": 34,
+      "repo": "virtool/virtool",
+      "namespace": "virtool",
+      "number": 4037,
+      "url": "https://github.com/virtool/virtool/pull/4037",
+      "pr_api": "https://api.github.com/repos/virtool/virtool/pulls/4037",
+      "title": "fix: request dependabot reviews through codeowners",
+      "created_at": "2026-10-02T15:46:37Z"
+    },
+    {
+      "index": 35,
+      "repo": "kento-1477/meal-log-app",
+      "namespace": "kento-1477",
+      "number": 12,
+      "url": "https://github.com/kento-1477/meal-log-app/pull/12",
+      "pr_api": "https://api.github.com/repos/kento-1477/meal-log-app/pulls/12",
+      "title": "CI\u6574\u5099: dependabot\u8a2d\u5b9a\u524a\u9664\uff0bLint/Test\u8ffd\u52a0\uff0bCODEOWNERS\u5c0e\u5165",
+      "created_at": "2025-08-05T06:32:50Z"
+    },
+    {
+      "index": 36,
+      "repo": "mParticle/mparticle-java-events-sdk",
+      "namespace": "mparticle",
+      "number": 32,
+      "url": "https://github.com/mParticle/mparticle-java-events-sdk/pull/32",
+      "pr_api": "https://api.github.com/repos/mParticle/mparticle-java-events-sdk/pulls/32",
+      "title": "chore: add CODEOWNERS, dependabot config, and contributor docs",
+      "created_at": "2026-09-03T01:46:47Z"
+    },
+    {
+      "index": 37,
+      "repo": "martinciu/ccpulse",
+      "namespace": "martinciu",
+      "number": 70,
+      "url": "https://github.com/martinciu/ccpulse/pull/70",
+      "pr_api": "https://api.github.com/repos/martinciu/ccpulse/pulls/70",
+      "title": "\ud83d\udd12 Pre-public-release security: dependabot, SECURITY.md, CODEOWNERS",
+      "created_at": "2026-05-10T18:17:31Z"
+    },
+    {
+      "index": 38,
+      "repo": "DiogoRibeiro7/min_ratio_cycle",
+      "namespace": "diogoribeiro7",
+      "number": 7,
+      "url": "https://github.com/DiogoRibeiro7/min_ratio_cycle/pull/7",
+      "pr_api": "https://api.github.com/repos/DiogoRibeiro7/min_ratio_cycle/pulls/7",
+      "title": "Add Dependabot, CODEOWNERS, and Zenodo metadata cleanup",
+      "created_at": "2026-03-13T09:30:01Z"
+    },
+    {
+      "index": 39,
+      "repo": "ik11235/SyncTabClipper",
+      "namespace": "ik11235",
+      "number": 275,
+      "url": "https://github.com/ik11235/SyncTabClipper/pull/275",
+      "pr_api": "https://api.github.com/repos/ik11235/SyncTabClipper/pulls/275",
+      "title": "CODEOWNERS \u3092\u8ffd\u52a0\u3057 Dependabot PR \u306e\u30ec\u30d3\u30e5\u30a2\u30fc\u3092\u81ea\u52d5\u30a2\u30b5\u30a4\u30f3",
+      "created_at": "2026-08-28T11:17:53Z"
+    },
+    {
+      "index": 40,
+      "repo": "k3s-io/kine",
+      "namespace": "k3s-io",
+      "number": 506,
+      "url": "https://github.com/k3s-io/kine/pull/506",
+      "pr_api": "https://api.github.com/repos/k3s-io/kine/pulls/506",
+      "title": "Remove reviewers from dependabot config",
+      "created_at": "2025-08-13T20:52:57Z"
+    },
+    {
+      "index": 41,
+      "repo": "LoopDevs/Loop",
+      "namespace": "loopdevs",
+      "number": 866,
+      "url": "https://github.com/LoopDevs/Loop/pull/866",
+      "pr_api": "https://api.github.com/repos/LoopDevs/Loop/pulls/866",
+      "title": "fix(ci): close a2-106 \u2014 remove dependabot phantom team reviewer",
+      "created_at": "2026-04-24T04:31:08Z"
+    },
+    {
+      "index": 42,
+      "repo": "sokolaidev/maf-extensions",
+      "namespace": "sokolaidev",
+      "number": 1473,
+      "url": "https://github.com/sokolaidev/maf-extensions/pull/1473",
+      "pr_api": "https://api.github.com/repos/sokolaidev/maf-extensions/pulls/1473",
+      "title": "ci: move action pins with Dependabot, keep checkout credentials only in jobs that push, add SECURITY.md and CODEOWNERS",
+      "created_at": "2026-09-25T14:02:29Z"
+    },
+    {
+      "index": 43,
+      "repo": "Ryansutton370/CypressTemplateRyan",
+      "namespace": "ryansutton370",
+      "number": 5,
+      "url": "https://github.com/Ryansutton370/CypressTemplateRyan/pull/5",
+      "pr_api": "https://api.github.com/repos/Ryansutton370/CypressTemplateRyan/pulls/5",
+      "title": "chore: add repository governance, contributing docs, CODEOWNERS, and Dependabot",
+      "created_at": "2025-12-14T20:03:47Z"
+    },
+    {
+      "index": 44,
+      "repo": "laparo-coding/hemera",
+      "namespace": "laparo-coding",
+      "number": 29,
+      "url": "https://github.com/laparo-coding/hemera/pull/29",
+      "pr_api": "https://api.github.com/repos/laparo-coding/hemera/pulls/29",
+      "title": "chore(repo): add CODEOWNERS, PR template, and Dependabot config",
+      "created_at": "2025-11-02T17:57:56Z"
+    },
+    {
+      "index": 45,
+      "repo": "erikjuhani/basalt",
+      "namespace": "erikjuhani",
+      "number": 75,
+      "url": "https://github.com/erikjuhani/basalt/pull/75",
+      "pr_api": "https://api.github.com/repos/erikjuhani/basalt/pulls/75",
+      "title": "Add CODEOWNERS file and remove reviewers from dependabot.yml",
+      "created_at": "2025-08-07T19:11:36Z"
+    },
+    {
+      "index": 46,
+      "repo": "scality/mountpoint-s3-csi-driver",
+      "namespace": "scality",
+      "number": 62,
+      "url": "https://github.com/scality/mountpoint-s3-csi-driver/pull/62",
+      "pr_api": "https://api.github.com/repos/scality/mountpoint-s3-csi-driver/pulls/62",
+      "title": "Switch deprecated reviewers to CODEOWNERS for dependabot",
+      "created_at": "2025-06-02T07:26:34Z"
+    },
+    {
+      "index": 47,
+      "repo": "stolostron/capi-tests",
+      "namespace": "stolostron",
+      "number": 475,
+      "url": "https://github.com/stolostron/capi-tests/pull/475",
+      "pr_api": "https://api.github.com/repos/stolostron/capi-tests/pulls/475",
+      "title": "Remove fork-specific reviewer from dependabot config",
+      "created_at": "2026-02-12T21:42:31Z"
+    },
+    {
+      "index": 48,
+      "repo": "openrewrite/rewrite-github-actions",
+      "namespace": "openrewrite",
+      "number": 214,
+      "url": "https://github.com/openrewrite/rewrite-github-actions/pull/214",
+      "pr_api": "https://api.github.com/repos/openrewrite/rewrite-github-actions/pulls/214",
+      "title": "Replace Dependabot `reviewers` with `CODEOWNERS`",
+      "created_at": "2026-08-22T13:16:17Z"
+    },
+    {
+      "index": 49,
+      "repo": "seebom-labs/BOMHort",
+      "namespace": "seebom-labs",
+      "number": 378,
+      "url": "https://github.com/seebom-labs/BOMHort/pull/378",
+      "pr_api": "https://api.github.com/repos/seebom-labs/BOMHort/pulls/378",
+      "title": "dependabot: update npm config, add docker checks, remove deprecated reviewers",
+      "created_at": "2026-09-22T08:17:41Z"
+    },
+    {
+      "index": 50,
+      "repo": "justeattakeaway/JustEat.StatsD",
+      "namespace": "justeattakeaway",
+      "number": 878,
+      "url": "https://github.com/justeattakeaway/JustEat.StatsD/pull/878",
+      "pr_api": "https://api.github.com/repos/justeattakeaway/JustEat.StatsD/pulls/878",
+      "title": "Remove dependabot reviewers property",
+      "created_at": "2025-05-07T14:05:27Z"
+    },
+    {
+      "index": 51,
+      "repo": "sidereal-io/sidereal",
+      "namespace": "sidereal-io",
+      "number": 315,
+      "url": "https://github.com/sidereal-io/sidereal/pull/315",
+      "pr_api": "https://api.github.com/repos/sidereal-io/sidereal/pulls/315",
+      "title": "fix: remove the placeholder Dependabot reviewers key",
+      "created_at": "2026-09-30T01:52:18Z"
+    },
+    {
+      "index": 52,
+      "repo": "mironovsergey/bootstrap-sheet",
+      "namespace": "mironovsergey",
+      "number": 122,
+      "url": "https://github.com/mironovsergey/bootstrap-sheet/pull/122",
+      "pr_api": "https://api.github.com/repos/mironovsergey/bootstrap-sheet/pulls/122",
+      "title": "ci: request reviews through CODEOWNERS instead of Dependabot reviewers",
+      "created_at": "2026-10-02T08:41:02Z"
+    },
+    {
+      "index": 53,
+      "repo": "javicabdev/asam-frontend",
+      "namespace": "javicabdev",
+      "number": 47,
+      "url": "https://github.com/javicabdev/asam-frontend/pull/47",
+      "pr_api": "https://api.github.com/repos/javicabdev/asam-frontend/pulls/47",
+      "title": "chore(ci): replace removed dependabot reviewers option with CODEOWNERS",
+      "created_at": "2026-09-11T15:59:00Z"
+    },
+    {
+      "index": 54,
+      "repo": "dtaborda/enterprise-platform-template",
+      "namespace": "dtaborda",
+      "number": 40,
+      "url": "https://github.com/dtaborda/enterprise-platform-template/pull/40",
+      "pr_api": "https://api.github.com/repos/dtaborda/enterprise-platform-template/pulls/40",
+      "title": "chore(ci): add CODEOWNERS, dependabot, and conventional commit enforcement",
+      "created_at": "2026-05-07T19:03:02Z"
+    },
+    {
+      "index": 55,
+      "repo": "theotime2005/bnote-settings",
+      "namespace": "theotime2005",
+      "number": 261,
+      "url": "https://github.com/theotime2005/bnote-settings/pull/261",
+      "pr_api": "https://api.github.com/repos/theotime2005/bnote-settings/pulls/261",
+      "title": "tech: remove reviewers from dependabot and add a code owner file",
+      "created_at": "2025-05-29T10:17:31Z"
+    },
+    {
+      "index": 56,
+      "repo": "woocommerce/woocommerce-android",
+      "namespace": "woocommerce",
+      "number": 16032,
+      "url": "https://github.com/woocommerce/woocommerce-android/pull/16032",
+      "pr_api": "https://api.github.com/repos/woocommerce/woocommerce-android/pulls/16032",
+      "title": "Route Dependabot Ruby reviews via CODEOWNERS",
+      "created_at": "2026-06-02T06:28:16Z"
+    },
+    {
+      "index": 57,
+      "repo": "maurorusso22/template-backend-python",
+      "namespace": "maurorusso22",
+      "number": 2,
+      "url": "https://github.com/maurorusso22/template-backend-python/pull/2",
+      "pr_api": "https://api.github.com/repos/maurorusso22/template-backend-python/pulls/2",
+      "title": "Add repo scaffolding: README, PR template, CODEOWNERS, Dependabot, and CI updates",
+      "created_at": "2026-04-17T16:18:25Z"
+    },
+    {
+      "index": 58,
+      "repo": "Miragon/wardley-maps-modeler",
+      "namespace": "miragon",
+      "number": 26,
+      "url": "https://github.com/Miragon/wardley-maps-modeler/pull/26",
+      "pr_api": "https://api.github.com/repos/Miragon/wardley-maps-modeler/pulls/26",
+      "title": "ci(dependabot): request emaarco and dominikhorn as reviewers",
+      "created_at": "2026-06-09T20:58:04Z"
+    },
+    {
+      "index": 59,
+      "repo": "IsaacWrong/daycmd",
+      "namespace": "isaacwrong",
+      "number": 14,
+      "url": "https://github.com/IsaacWrong/daycmd/pull/14",
+      "pr_api": "https://api.github.com/repos/IsaacWrong/daycmd/pulls/14",
+      "title": "Add FUNDING, CODEOWNERS, PR template, and dependabot for OSS launch",
+      "created_at": "2026-05-19T21:04:47Z"
+    },
+    {
+      "index": 60,
+      "repo": "OvertureMaps/workshop",
+      "namespace": "overturemaps",
+      "number": 3,
+      "url": "https://github.com/OvertureMaps/workshop/pull/3",
+      "pr_api": "https://api.github.com/repos/OvertureMaps/workshop/pulls/3",
+      "title": "[CHORE] Add Dependabot config and CODEOWNERS",
+      "created_at": "2026-03-02T15:31:24Z"
+    },
+    {
+      "index": 61,
+      "repo": "mongodb/libmongocrypt",
+      "namespace": "mongodb",
+      "number": 1030,
+      "url": "https://github.com/mongodb/libmongocrypt/pull/1030",
+      "pr_api": "https://api.github.com/repos/mongodb/libmongocrypt/pulls/1030",
+      "title": "Replace dependabot `assignees` with CODEOWNERS",
+      "created_at": "2025-06-23T17:12:28Z"
+    },
+    {
+      "index": 62,
+      "repo": "Quantinuum/zixy",
+      "namespace": "quantinuum",
+      "number": 161,
+      "url": "https://github.com/Quantinuum/zixy/pull/161",
+      "pr_api": "https://api.github.com/repos/Quantinuum/zixy/pulls/161",
+      "title": "ci: dependabot assign reviewers",
+      "created_at": "2026-07-23T15:02:04Z"
+    },
+    {
+      "index": 63,
+      "repo": "sikebe-demo/dotnet-test-demo",
+      "namespace": "sikebe-demo",
+      "number": 331,
+      "url": "https://github.com/sikebe-demo/dotnet-test-demo/pull/331",
+      "pr_api": "https://api.github.com/repos/sikebe-demo/dotnet-test-demo/pulls/331",
+      "title": "Remove deprecated reviewers field from dependabot.yml",
+      "created_at": "2025-06-11T12:33:40Z"
+    },
+    {
+      "index": 64,
+      "repo": "traPtitech/Jomon-UI",
+      "namespace": "traptitech",
+      "number": 516,
+      "url": "https://github.com/traPtitech/Jomon-UI/pull/516",
+      "pr_api": "https://api.github.com/repos/traPtitech/Jomon-UI/pulls/516",
+      "title": "Use CODEOWNERS for Dependabot reviewers",
+      "created_at": "2025-08-24T01:58:23Z"
+    },
+    {
+      "index": 65,
+      "repo": "Traperto/magic-bytes-validator",
+      "namespace": "traperto",
+      "number": 153,
+      "url": "https://github.com/Traperto/magic-bytes-validator/pull/153",
+      "pr_api": "https://api.github.com/repos/Traperto/magic-bytes-validator/pulls/153",
+      "title": "chore: Added CODEOWNERS & updated dependabot.yml",
+      "created_at": "2025-08-15T14:19:51Z"
+    },
+    {
+      "index": 66,
+      "repo": "runax-software/terraform-aws-ipv6-proxy",
+      "namespace": "runax-software",
+      "number": 9,
+      "url": "https://github.com/runax-software/terraform-aws-ipv6-proxy/pull/9",
+      "pr_api": "https://api.github.com/repos/runax-software/terraform-aws-ipv6-proxy/pulls/9",
+      "title": "Chore/dependabot labels and codeowners",
+      "created_at": "2026-08-02T14:54:56Z"
+    },
+    {
+      "index": 67,
+      "repo": "Dynatrace/dynatrace-configuration-as-code",
+      "namespace": "dynatrace",
+      "number": 1994,
+      "url": "https://github.com/Dynatrace/dynatrace-configuration-as-code/pull/1994",
+      "pr_api": "https://api.github.com/repos/Dynatrace/dynatrace-configuration-as-code/pulls/1994",
+      "title": "chore: Remove reviewers from dependabot config",
+      "created_at": "2025-07-23T09:08:36Z"
+    },
+    {
+      "index": 68,
+      "repo": "scode/saltybox",
+      "namespace": "scode",
+      "number": 228,
+      "url": "https://github.com/scode/saltybox/pull/228",
+      "pr_api": "https://api.github.com/repos/scode/saltybox/pulls/228",
+      "title": "chore: remove retired dependabot reviewers key",
+      "created_at": "2026-07-16T03:43:15Z"
+    },
+    {
+      "index": 69,
+      "repo": "bbdsoftware/litellm-operator",
+      "namespace": "bbdsoftware",
+      "number": 61,
+      "url": "https://github.com/bbdsoftware/litellm-operator/pull/61",
+      "pr_api": "https://api.github.com/repos/bbdsoftware/litellm-operator/pulls/61",
+      "title": "CODEOWNERS and Dependabot reviewers fix",
+      "created_at": "2025-08-05T09:47:06Z"
+    },
+    {
+      "index": 70,
+      "repo": "waterdrops/snell-server-docker",
+      "namespace": "waterdrops",
+      "number": 27,
+      "url": "https://github.com/waterdrops/snell-server-docker/pull/27",
+      "pr_api": "https://api.github.com/repos/waterdrops/snell-server-docker/pulls/27",
+      "title": "chore: tune Dependabot grouping, cooldowns, and CODEOWNERS",
+      "created_at": "2026-06-10T10:00:37Z"
+    },
+    {
+      "index": 71,
+      "repo": "FAIR-DM/django-controlled-vocabularies",
+      "namespace": "fair-dm",
+      "number": 98,
+      "url": "https://github.com/FAIR-DM/django-controlled-vocabularies/pull/98",
+      "pr_api": "https://api.github.com/repos/FAIR-DM/django-controlled-vocabularies/pulls/98",
+      "title": "Add Dependabot configuration and CODEOWNERS",
+      "created_at": "2026-08-11T16:54:38Z"
+    },
+    {
+      "index": 72,
+      "repo": "City-of-Helsinki/palvelutarjotin-admin",
+      "namespace": "city-of-helsinki",
+      "number": 417,
+      "url": "https://github.com/City-of-Helsinki/palvelutarjotin-admin/pull/417",
+      "pr_api": "https://api.github.com/repos/City-of-Helsinki/palvelutarjotin-admin/pulls/417",
+      "title": "PT-1887 | Replace dependabot reviewers with CODEOWNERS file",
+      "created_at": "2025-06-09T09:19:08Z"
+    },
+    {
+      "index": 73,
+      "repo": "ensdomains/apps-monorepo",
+      "namespace": "ensdomains",
+      "number": 40,
+      "url": "https://github.com/ensdomains/apps-monorepo/pull/40",
+      "pr_api": "https://api.github.com/repos/ensdomains/apps-monorepo/pulls/40",
+      "title": "Fix dependabot & introduce labeler, initial codeowners",
+      "created_at": "2025-07-08T18:01:08Z"
+    },
+    {
+      "index": 74,
+      "repo": "google/adk-go",
+      "namespace": "google",
+      "number": 1199,
+      "url": "https://github.com/google/adk-go/pull/1199",
+      "pr_api": "https://api.github.com/repos/google/adk-go/pulls/1199",
+      "title": "chore: broaden Dependabot updates and add CODEOWNERS routing",
+      "created_at": "2026-07-24T20:12:03Z"
+    },
+    {
+      "index": 75,
+      "repo": "deterministicstatemachine/dsm",
+      "namespace": "deterministicstatemachine",
+      "number": 31,
+      "url": "https://github.com/deterministicstatemachine/dsm/pull/31",
+      "pr_api": "https://api.github.com/repos/deterministicstatemachine/dsm/pulls/31",
+      "title": "Add CODEOWNERS, dependabot; update docs to main",
+      "created_at": "2026-03-19T14:36:25Z"
+    },
+    {
+      "index": 76,
+      "repo": "rabestro/rabestro.github.io",
+      "namespace": "rabestro",
+      "number": 85,
+      "url": "https://github.com/rabestro/rabestro.github.io/pull/85",
+      "pr_api": "https://api.github.com/repos/rabestro/rabestro.github.io/pulls/85",
+      "title": "chore: remove dead reviewers: option from Dependabot config",
+      "created_at": "2026-07-05T18:01:03Z"
+    },
+    {
+      "index": 77,
+      "repo": "center-for-humans-and-machines/hcms",
+      "namespace": "center-for-humans-and-machines",
+      "number": 32,
+      "url": "https://github.com/center-for-humans-and-machines/hcms/pull/32",
+      "pr_api": "https://api.github.com/repos/center-for-humans-and-machines/hcms/pulls/32",
+      "title": "Add Dependabot version updates and CODEOWNERS",
+      "created_at": "2026-10-06T14:56:47Z"
+    },
+    {
+      "index": 78,
+      "repo": "RShirohara/ap.third-branches.net",
+      "namespace": "rshirohara",
+      "number": 121,
+      "url": "https://github.com/RShirohara/ap.third-branches.net/pull/121",
+      "pr_api": "https://api.github.com/repos/RShirohara/ap.third-branches.net/pulls/121",
+      "title": "chore: migrate deprecated reviewers option in dependabot configulation",
+      "created_at": "2025-05-11T04:49:21Z"
+    },
+    {
+      "index": 79,
+      "repo": "mintak21/actions",
+      "namespace": "mintak21",
+      "number": 38,
+      "url": "https://github.com/mintak21/actions/pull/38",
+      "pr_api": "https://api.github.com/repos/mintak21/actions/pulls/38",
+      "title": "chore: update dependabot and CODEOWNERS",
+      "created_at": "2026-01-01T06:09:56Z"
+    },
+    {
+      "index": 80,
+      "repo": "Integral-Healthcare/take-home",
+      "namespace": "integral-healthcare",
+      "number": 21,
+      "url": "https://github.com/Integral-Healthcare/take-home/pull/21",
+      "pr_api": "https://api.github.com/repos/Integral-Healthcare/take-home/pulls/21",
+      "title": "chore: add CODEOWNERS and dependabot.yml",
+      "created_at": "2026-06-16T23:38:08Z"
+    },
+    {
+      "index": 81,
+      "repo": "snjro/Digu",
+      "namespace": "snjro",
+      "number": 495,
+      "url": "https://github.com/snjro/Digu/pull/495",
+      "pr_api": "https://api.github.com/repos/snjro/Digu/pulls/495",
+      "title": "chore: remove the retired reviewers option from dependabot.yml",
+      "created_at": "2026-09-26T02:50:48Z"
+    },
+    {
+      "index": 82,
+      "repo": "liquibase/build-logic",
+      "namespace": "liquibase",
+      "number": 551,
+      "url": "https://github.com/liquibase/build-logic/pull/551",
+      "pr_api": "https://api.github.com/repos/liquibase/build-logic/pulls/551",
+      "title": "[DAT-22565] Add CODEOWNERS and harden dependabot config",
+      "created_at": "2026-04-16T16:44:27Z"
+    },
+    {
+      "index": 83,
+      "repo": "shirochan/task-tool",
+      "namespace": "shirochan",
+      "number": 21,
+      "url": "https://github.com/shirochan/task-tool/pull/21",
+      "pr_api": "https://api.github.com/repos/shirochan/task-tool/pulls/21",
+      "title": "feat: Dependabot reviewers\u8a2d\u5b9a\u3092CODEOWNERS\u306b\u79fb\u884c",
+      "created_at": "2025-07-15T10:34:43Z"
+    },
+    {
+      "index": 84,
+      "repo": "mozilla/gcp-ingestion",
+      "namespace": "mozilla",
+      "number": 2782,
+      "url": "https://github.com/mozilla/gcp-ingestion/pull/2782",
+      "pr_api": "https://api.github.com/repos/mozilla/gcp-ingestion/pulls/2782",
+      "title": "[DENG-8480] Use CODEOWNERS for tagging reviewers for dependabot",
+      "created_at": "2025-05-12T22:04:52Z"
+    },
+    {
+      "index": 85,
+      "repo": "ekwi-tech/next-version-action",
+      "namespace": "ekwi-tech",
+      "number": 2,
+      "url": "https://github.com/ekwi-tech/next-version-action/pull/2",
+      "pr_api": "https://api.github.com/repos/ekwi-tech/next-version-action/pulls/2",
+      "title": "ci: bare release title, enable Dependabot and CODEOWNERS",
+      "created_at": "2026-07-17T16:29:33Z"
+    },
+    {
+      "index": 86,
+      "repo": "mpe-es/ansible-role-vault",
+      "namespace": "mpe-es",
+      "number": 24,
+      "url": "https://github.com/mpe-es/ansible-role-vault/pull/24",
+      "pr_api": "https://api.github.com/repos/mpe-es/ansible-role-vault/pulls/24",
+      "title": "ci: mirror Microkosmos Dependabot conventions and add CODEOWNERS",
+      "created_at": "2026-07-14T00:47:04Z"
+    },
+    {
+      "index": 87,
+      "repo": "system76/tech-docs",
+      "namespace": "system76",
+      "number": 389,
+      "url": "https://github.com/system76/tech-docs/pull/389",
+      "pr_api": "https://api.github.com/repos/system76/tech-docs/pulls/389",
+      "title": "Add CODEOWNERS for dependency files and use cooldown instead of reviewers in Dependabot config",
+      "created_at": "2026-06-15T20:16:48Z"
+    },
+    {
+      "index": 88,
+      "repo": "tr3mor/personal-infra",
+      "namespace": "tr3mor",
+      "number": 1512,
+      "url": "https://github.com/tr3mor/personal-infra/pull/1512",
+      "pr_api": "https://api.github.com/repos/tr3mor/personal-infra/pulls/1512",
+      "title": "Remove reviewers from dependabot.yml per GitHub deprecation",
+      "created_at": "2025-07-11T10:02:11Z"
+    },
+    {
+      "index": 89,
+      "repo": "AET-DevOps26/team-special-ops",
+      "namespace": "aet-devops26",
+      "number": 25,
+      "url": "https://github.com/AET-DevOps26/team-special-ops/pull/25",
+      "pr_api": "https://api.github.com/repos/AET-DevOps26/team-special-ops/pulls/25",
+      "title": "ci: harden CI workflows (SHA-pin actions, least-priv perms, path filters, CODEOWNERS, Dependabot)",
+      "created_at": "2026-06-10T15:02:17Z"
+    },
+    {
+      "index": 90,
+      "repo": "grahame-white/ai_msp430_emulator",
+      "namespace": "grahame-white",
+      "number": 78,
+      "url": "https://github.com/grahame-white/ai_msp430_emulator/pull/78",
+      "pr_api": "https://api.github.com/repos/grahame-white/ai_msp430_emulator/pulls/78",
+      "title": "Replace deprecated `reviewers` field in dependabot.yml with CODEOWNERS file",
+      "created_at": "2025-06-05T20:02:00Z"
+    },
+    {
+      "index": 91,
+      "repo": "AntSentry/HermesTS",
+      "namespace": "antsentry",
+      "number": 2,
+      "url": "https://github.com/AntSentry/HermesTS/pull/2",
+      "pr_api": "https://api.github.com/repos/AntSentry/HermesTS/pulls/2",
+      "title": "chore: CI, PR template, dependabot, codeowners",
+      "created_at": "2026-05-25T10:38:04Z"
+    },
+    {
+      "index": 92,
+      "repo": "Create-Node-App/cna-templates",
+      "namespace": "create-node-app",
+      "number": 377,
+      "url": "https://github.com/Create-Node-App/cna-templates/pull/377",
+      "pr_api": "https://api.github.com/repos/Create-Node-App/cna-templates/pulls/377",
+      "title": "chore(repo): W0 hygiene \u2014 CODEOWNERS, SECURITY, dependabot, dead files",
+      "created_at": "2026-08-23T16:45:54Z"
+    },
+    {
+      "index": 93,
+      "repo": "karloows/karloows.github.io",
+      "namespace": "karloows",
+      "number": 334,
+      "url": "https://github.com/karloows/karloows.github.io/pull/334",
+      "pr_api": "https://api.github.com/repos/karloows/karloows.github.io/pulls/334",
+      "title": "chore(dependabot): remove reviewers field and add CODEOWNERS file",
+      "created_at": "2025-07-02T06:06:11Z"
+    },
+    {
+      "index": 94,
+      "repo": "thermondo/django-heroku-connect",
+      "namespace": "thermondo",
+      "number": 209,
+      "url": "https://github.com/thermondo/django-heroku-connect/pull/209",
+      "pr_api": "https://api.github.com/repos/thermondo/django-heroku-connect/pulls/209",
+      "title": "chore: replace dependabot reviewers with CODEOWNERS",
+      "created_at": "2026-05-07T12:05:42Z"
+    },
+    {
+      "index": 95,
+      "repo": "dmingn/feedly-token-fetcher",
+      "namespace": "dmingn",
+      "number": 98,
+      "url": "https://github.com/dmingn/feedly-token-fetcher/pull/98",
+      "pr_api": "https://api.github.com/repos/dmingn/feedly-token-fetcher/pulls/98",
+      "title": "chore: remove deprecated reviewers from dependabot.yml",
+      "created_at": "2026-08-08T00:17:11Z"
+    },
+    {
+      "index": 96,
+      "repo": "ken-guru/github-copilot-agent-assisted-next-app",
+      "namespace": "ken-guru",
+      "number": 191,
+      "url": "https://github.com/ken-guru/github-copilot-agent-assisted-next-app/pull/191",
+      "pr_api": "https://api.github.com/repos/ken-guru/github-copilot-agent-assisted-next-app/pulls/191",
+      "title": "Add CODEOWNERS file and streamline dependabot configuration",
+      "created_at": "2025-06-02T13:04:46Z"
+    },
+    {
+      "index": 97,
+      "repo": "redhat-actions/oc-new-app",
+      "namespace": "redhat-actions",
+      "number": 37,
+      "url": "https://github.com/redhat-actions/oc-new-app/pull/37",
+      "pr_api": "https://api.github.com/repos/redhat-actions/oc-new-app/pulls/37",
+      "title": "Add security hardening: dependabot, CODEOWNERS, and SECURITY.md",
+      "created_at": "2026-07-27T14:51:44Z"
+    },
+    {
+      "index": 98,
+      "repo": "folio-org/stripes-inventory-components",
+      "namespace": "folio-org",
+      "number": 179,
+      "url": "https://github.com/folio-org/stripes-inventory-components/pull/179",
+      "pr_api": "https://api.github.com/repos/folio-org/stripes-inventory-components/pulls/179",
+      "title": "chore: update CODEOWNERS and add dependabot config",
+      "created_at": "2026-07-16T08:34:49Z"
+    },
+    {
+      "index": 99,
+      "repo": "xingyun0812/harness-demo",
+      "namespace": "xingyun0812",
+      "number": 8,
+      "url": "https://github.com/xingyun0812/harness-demo/pull/8",
+      "pr_api": "https://api.github.com/repos/xingyun0812/harness-demo/pulls/8",
+      "title": "feat: team adoption improvements \u2014 template guide, rename script, Dependabot, CODEOWNERS, Spring Boot 3.4, DB docs",
+      "created_at": "2026-07-23T15:22:47Z"
+    },
+    {
+      "index": 100,
+      "repo": "johnsarie27/joplin-mcp",
+      "namespace": "johnsarie27",
+      "number": 30,
+      "url": "https://github.com/johnsarie27/joplin-mcp/pull/30",
+      "pr_api": "https://api.github.com/repos/johnsarie27/joplin-mcp/pulls/30",
+      "title": "Replace dead dependabot.yml reviewers with CODEOWNERS",
+      "created_at": "2026-08-06T05:33:47Z"
+    }
+  ]
+}

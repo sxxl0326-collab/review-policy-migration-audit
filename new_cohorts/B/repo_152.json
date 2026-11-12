@@ -1,0 +1,240 @@
+{
+  "repo": "cedricziel/trueapp",
+  "index": 152,
+  "start": "2025-07-10T10:44:23+00:00",
+  "end": "2025-10-08T10:44:23+00:00",
+  "branch": "main",
+  "migration": "https://github.com/cedricziel/trueapp/pull/12",
+  "selected": [
+    "https://github.com/cedricziel/trueapp/pull/14",
+    "https://github.com/cedricziel/trueapp/pull/18",
+    "https://github.com/cedricziel/trueapp/pull/23"
+  ],
+  "records": [
+    {
+      "url": "https://github.com/cedricziel/trueapp/pull/14",
+      "author": "cedricziel",
+      "old": [],
+      "new": [
+        "@cedricziel"
+      ],
+      "raw": [
+        "@cedricziel"
+      ],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "LICENSE"
+        ],
+        [
+          null,
+          "pubspec.yaml"
+        ]
+      ],
+      "base": "11fa406ee51a1a7e24f621ee52fb0d26118917a6",
+      "requests": []
+    },
+    {
+      "url": "https://github.com/cedricziel/trueapp/pull/18",
+      "author": "cedricziel",
+      "old": [],
+      "new": [
+        "@cedricziel"
+      ],
+      "raw": [
+        "@cedricziel"
+      ],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          ".claude/settings.local.json"
+        ],
+        [
+          null,
+          "ios/Podfile.lock"
+        ],
+        [
+          null,
+          "ios/Runner.xcodeproj/project.pbxproj"
+        ],
+        [
+          null,
+          "ios/Runner/Info.plist"
+        ],
+        [
+          null,
+          "ios/Runner/Runner.entitlements"
+        ],
+        [
+          null,
+          "lib/models/connection_error.dart"
+        ],
+        [
+          null,
+          "lib/models/nas_server.dart"
+        ],
+        [
+          null,
+          "lib/providers/pool_provider.dart"
+        ],
+        [
+          null,
+          "lib/providers/server_provider.dart"
+        ],
+        [
+          null,
+          "lib/screens/add_server_screen.dart"
+        ],
+        [
+          null,
+          "lib/screens/edit_server_screen.dart"
+        ],
+        [
+          null,
+          "lib/screens/home_screen.dart"
+        ],
+        [
+          null,
+          "lib/screens/server_detail_screen.dart"
+        ],
+        [
+          null,
+          "lib/screens/server_pools_screen.dart"
+        ],
+        [
+          null,
+          "lib/screens/settings_screen.dart"
+        ],
+        [
+          null,
+          "lib/services/database.dart"
+        ],
+        [
+          null,
+          "lib/services/database.g.dart"
+        ],
+        [
+          null,
+          "lib/services/network_service.dart"
+        ],
+        [
+          null,
+          "lib/services/truenas_api_client.dart"
+        ],
+        [
+          null,
+          "lib/widgets/connection_error_widget.dart"
+        ],
+        [
+          null,
+          "macos/Flutter/GeneratedPluginRegistrant.swift"
+        ],
+        [
+          null,
+          "macos/Podfile.lock"
+        ],
+        [
+          null,
+          "pubspec.lock"
+        ],
+        [
+          null,
+          "pubspec.yaml"
+        ],
+        [
+          null,
+          "test/database/clean_schema_test.dart"
+        ],
+        [
+          null,
+          "test/debug/local_url_save_test.dart"
+        ],
+        [
+          null,
+          "test/debug/server_refresh_test.dart"
+        ],
+        [
+          null,
+          "test/e2e/complete_edit_flow_test.dart"
+        ],
+        [
+          null,
+          "test/e2e/server_edit_flow_unit_test.dart"
+        ],
+        [
+          null,
+          "test/e2e/server_edit_provider_update_test.dart"
+        ],
+        [
+          null,
+          "test/integration/edit_server_integration_test.dart"
+        ],
+        [
+          null,
+          "test/providers/server_provider_test.dart"
+        ],
+        [
+          null,
+          "test/screens/edit_server_screen_simplified_test.dart"
+        ],
+        [
+          null,
+          "test/screens/edit_server_screen_test.dart"
+        ],
+        [
+          null,
+          "test/screens/settings_screen_test.dart"
+        ],
+        [
+          null,
+          "test/services/truenas_api_client_test.dart"
+        ]
+      ],
+      "base": "154338a351788ea23defc36aa3a1443952c2b130",
+      "requests": []
+    },
+    {
+      "url": "https://github.com/cedricziel/trueapp/pull/23",
+      "author": "cedricziel",
+      "old": [],
+      "new": [
+        "@cedricziel"
+      ],
+      "raw": [
+        "@cedricziel"
+      ],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "test/debug/local_url_save_test.dart"
+        ],
+        [
+          null,
+          "test/e2e/complete_edit_flow_test.dart"
+        ],
+        [
+          null,
+          "test/e2e/mocked_complete_edit_flow_test.dart"
+        ],
+        [
+          null,
+          "test/e2e/server_edit_provider_update_test.dart"
+        ],
+        [
+          null,
+          "test/integration/edit_server_integration_test.dart"
+        ],
+        [
+          null,
+          "test/screens/edit_server_screen_test.dart"
+        ]
+      ],
+      "base": "ac101df3ceadbf1620d583a63bb549737247c33a",
+      "requests": []
+    }
+  ],
+  "query": "repo:cedricziel/trueapp is:pr is:merged base:main created:>2025-07-10T10:44:23Z merged:<=2025-10-08T10:44:23Z"
+}

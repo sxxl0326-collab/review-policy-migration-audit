@@ -1,0 +1,5 @@
+# Reviewers migrated from the Dependabot configuration
+/provider/go.mod @marns93
+/provider/go.sum @marns93
+/sdk/go.mod @marns93
+/sdk/go.sum @marns93

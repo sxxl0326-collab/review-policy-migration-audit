@@ -1,0 +1,20 @@
+# Khan/perseus is tagged for all PRs
+@Khan/perseus
+
+# AI Utils are owned by Tutor Platform
+widget-ai-utils/* @Khan/tut
+
+# For the Color Sync renderer updates
+packages/perseus/src/perseus-markdown.new.tsx @nishasy @markfitzgerald @myranae
+packages/perseus/src/perseus-markdown.tsx @nishasy @markfitzgerald @myranae
+packages/perseus/src/renderer.new.tsx @nishasy @markfitzgerald @myranae
+packages/perseus/src/renderer.old.tsx @nishasy @markfitzgerald @myranae
+packages/perseus/src/renderer.tsx @nishasy @markfitzgerald @myranae
+packages/perseus/src/styles/perseus-renderer.new.css @nishasy @markfitzgerald @myranae
+packages/perseus/src/styles/perseus-renderer.css @nishasy @markfitzgerald @myranae
+
+# Reviewers migrated from the Dependabot configuration
+/package.json @Khan/perseus @Khan/lems
+/package-lock.json @Khan/perseus @Khan/lems
+/yarn.lock @Khan/perseus @Khan/lems
+/pnpm-lock.yaml @Khan/perseus @Khan/lems

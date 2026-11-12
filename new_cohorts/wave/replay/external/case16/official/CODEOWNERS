@@ -1,0 +1,8 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/action.yaml @matthewfeickert
+/action.yml @matthewfeickert
+/.github/workflows/*.yaml @matthewfeickert
+/.github/workflows/*.yml @matthewfeickert
+/**/.github/workflows/*.yaml @matthewfeickert
+/**/.github/workflows/*.yml @matthewfeickert

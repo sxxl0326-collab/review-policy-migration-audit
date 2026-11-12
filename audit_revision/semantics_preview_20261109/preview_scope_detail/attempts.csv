@@ -1,0 +1,26 @@
+﻿repo,case,policy,official_noop_start,tree_paths_checked,changed_paths,outside_probe_paths,outside_new_nonhistorical_paths,added_identifiers,outside_added_identifiers,outside_scope_transitions
+Coding-Dev-Tools/api-contract-guardian,wave1_006,actual,False,47,24,15,0,"[""@Coding-Dev-Tools/engineers""]","[""@Coding-Dev-Tools/engineers""]","{""Mixed -> Expanded"": 15}"
+aristanetworks/avd,wave1_021,official,False,5252,17,0,0,"[""@aristanetworks/avd-developers""]",[],{}
+aristanetworks/avd,wave1_021,openrewrite,False,5252,17,0,0,"[""@aristanetworks/avd-developers""]",[],{}
+Parsely/wp-parsely,wave1_025,actual,False,410,2,0,0,"[""@Parsely/wp-parsely""]",[],{}
+quynhonsemiconductor/infra-template,wave1_032,actual,False,29,4,0,0,"[""@quynhonsemiconductor""]",[],{}
+quynhonsemiconductor/infra-template,wave1_032,official,False,29,5,1,0,"[""@quynhonsemiconductor/platform-infra""]","[""@quynhonsemiconductor/platform-infra""]","{""Mixed -> Expanded"": 1}"
+quynhonsemiconductor/infra-template,wave1_032,openrewrite,False,29,4,0,0,"[""@quynhonsemiconductor/platform-infra""]",[],{}
+seebom-labs/BOMHort,wave1_049,actual,False,450,213,209,209,"[""@koksay""]","[""@koksay""]","{""Unchanged -> Expanded"": 209}"
+bbdsoftware/litellm-operator,wave1_069,actual,False,174,38,31,0,"[""@docs-team"", ""@litellm-operator-maintainers"", ""@platform-team""]","[""@docs-team"", ""@litellm-operator-maintainers"", ""@platform-team""]","{""Mixed -> Expanded"": 31}"
+bbdsoftware/litellm-operator,wave1_069,official,False,174,3,0,0,"[""@platform-team""]",[],{}
+bbdsoftware/litellm-operator,wave1_069,openrewrite,False,174,3,0,0,"[""@platform-team""]",[],{}
+system76/tech-docs,wave1_087,actual,False,3628,0,0,0,[],[],{}
+WithAutonomi/saorsa-transport,wave2_114,actual,False,520,520,501,501,"[""@dirvine""]","[""@dirvine""]","{""Unchanged -> Expanded"": 501}"
+WithAutonomi/saorsa-transport,wave2_114,official,False,520,18,0,0,"[""@Ralith"", ""@djc"", ""@gretchenfrage""]",[],{}
+WithAutonomi/saorsa-transport,wave2_114,openrewrite,False,520,29,11,0,"[""@Ralith"", ""@djc"", ""@gretchenfrage""]","[""@Ralith"", ""@djc"", ""@gretchenfrage""]","{""Mixed -> Expanded"": 11}"
+stackrox/stackrox,wave2_133,actual,False,11689,655,584,583,"[""@janisz"", ""@stackrox/backend-dep-updaters"", ""@stackrox/install"", ""@stackrox/scanner"", ""@stackrox/ui""]","[""@stackrox/backend-dep-updaters"", ""@stackrox/install"", ""@stackrox/scanner"", ""@stackrox/ui""]","{""Expanded -> Expanded"": 32, ""Unchanged -> Expanded"": 548, ""Mixed -> Mixed"": 3, ""Mixed -> Expanded"": 1}"
+stackrox/stackrox,wave2_133,official,True,11689,2887,2861,2861,"[""@stackrox/backend-dep-updaters"", ""@stackrox/ui-dep-updaters""]","[""@stackrox/backend-dep-updaters"", ""@stackrox/ui-dep-updaters""]","{""Unchanged -> Expanded"": 2861}"
+stackrox/stackrox,wave2_133,openrewrite,False,11689,313,258,258,"[""@janisz"", ""@stackrox/backend-dep-updaters"", ""@stackrox/install"", ""@stackrox/scanner"", ""@stackrox/ui""]","[""@stackrox/backend-dep-updaters"", ""@stackrox/scanner""]","{""Expanded -> Expanded"": 18, ""Unchanged -> Expanded"": 240}"
+honestica/docker-looker,wave2_150,actual,False,22,22,20,20,"[""@marcmillien"", ""@mtparet""]","[""@marcmillien"", ""@mtparet""]","{""Unchanged -> Expanded"": 20}"
+honestica/docker-looker,wave2_150,official,True,22,22,20,20,"[""@marcmillien"", ""@mtparet""]","[""@marcmillien"", ""@mtparet""]","{""Unchanged -> Expanded"": 20}"
+honestica/docker-looker,wave2_150,openrewrite,False,22,1,0,0,"[""@honestica/infra""]",[],{}
+buildkite/test-engine-client,wave2_151,actual,False,147,147,144,0,"[""@buildkite/test-splitting""]","[""@buildkite/test-splitting""]","{""Mixed -> Expanded"": 144}"
+RedHatInsights/insights-host-inventory,wave2_153,actual,False,266,266,260,260,"[""@host-based-inventory-committers""]","[""@host-based-inventory-committers""]","{""Unchanged -> Expanded"": 260}"
+RedHatInsights/insights-host-inventory,wave2_153,official,False,266,5,0,0,"[""@RedHatInsights/host-based-inventory-committers""]",[],{}
+RedHatInsights/insights-host-inventory,wave2_153,openrewrite,False,266,5,0,0,"[""@RedHatInsights/host-based-inventory-committers""]",[],{}

@@ -1,0 +1,151 @@
+{
+  "repo": "openedx/openedx-platform",
+  "index": 109,
+  "start": "2026-07-01T10:40:45+00:00",
+  "end": "2026-09-29T10:40:45+00:00",
+  "branch": "master",
+  "migration": "https://github.com/openedx/openedx-platform/pull/38831",
+  "selected": [
+    "https://github.com/openedx/openedx-platform/pull/38840",
+    "https://github.com/openedx/openedx-platform/pull/38842",
+    "https://github.com/openedx/openedx-platform/pull/38848"
+  ],
+  "records": [
+    {
+      "url": "https://github.com/openedx/openedx-platform/pull/38840",
+      "author": "rodmgwgu",
+      "old": [],
+      "new": [],
+      "raw": [],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "cms/djangoapps/contentstore/tasks.py"
+        ],
+        [
+          null,
+          "cms/djangoapps/contentstore/tests/test_clone_course.py"
+        ],
+        [
+          null,
+          "cms/djangoapps/contentstore/tests/test_course_create_rerun.py"
+        ],
+        [
+          null,
+          "cms/djangoapps/contentstore/views/course.py"
+        ]
+      ],
+      "base": "c0973707f398359a9a5ed87a72204a291ac1abe7",
+      "requests": [
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "mariajgrimaldi"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "wgu-taylor-payne"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "MaferMazu"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "BryanttV"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "bradenmacdonald"
+          },
+          "requested_team": null
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/openedx/openedx-platform/pull/38842",
+      "author": "marlonkeating",
+      "old": [
+        "@openedx/committers-openedx-platform-2u-infinity"
+      ],
+      "new": [
+        "@openedx/committers-openedx-platform-2u-infinity"
+      ],
+      "raw": [],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "openedx/features/discounts/applicability.py"
+        ],
+        [
+          null,
+          "openedx/features/discounts/tests/test_applicability.py"
+        ]
+      ],
+      "base": "5b3eb234a052e3db849d1879f748a2c850d3207f",
+      "requests": [
+        {
+          "event": "review_requested",
+          "requested_reviewer": null,
+          "requested_team": {
+            "slug": "committers-openedx-platform-2u-infinity"
+          }
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/openedx/openedx-platform/pull/38848",
+      "author": "Abdul-Muqadim-Arbisoft",
+      "old": [],
+      "new": [],
+      "raw": [],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "common/djangoapps/student/migrations/0050_grant_staff_to_existing_superusers.py"
+        ],
+        [
+          null,
+          "common/djangoapps/student/signals/receivers.py"
+        ],
+        [
+          null,
+          "common/djangoapps/student/tests/test_receivers.py"
+        ]
+      ],
+      "base": "fe22a5fc285b7aea9de4d79466cc4fb3b9075832",
+      "requests": [
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "Copilot"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "awais786"
+          },
+          "requested_team": null
+        }
+      ]
+    }
+  ],
+  "query": "repo:openedx/openedx-platform is:pr is:merged base:master created:>2026-07-01T10:40:45Z merged:<=2026-09-29T10:40:45Z"
+}

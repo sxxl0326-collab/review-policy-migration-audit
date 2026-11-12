@@ -1,0 +1,6 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/provider/go.mod @marns93
+/provider/go.sum @marns93
+/sdk/go.mod @marns93
+/sdk/go.sum @marns93

@@ -1,0 +1,12 @@
+﻿repo,history,wave,category,contexts,official_mismatching_contexts,openrewrite_mismatching_contexts
+Coding-Dev-Tools/api-contract-guardian,H03,Wave 1,OLD_OWNER_OMISSION_IN_REPLAY_OR_MERGED,17,17,17
+Parsely/wp-parsely,,Wave 1,REPLAY_ONLY_LEGACY_REVIEWER_ASSIGNMENT,29,4,4
+RedHatInsights/insights-host-inventory,H07,Wave 2,OLD_OWNER_OMISSION_IN_REPLAY_OR_MERGED,11,10,10
+WithAutonomi/saorsa-transport,H08,Wave 2,OLD_OWNER_OMISSION_IN_REPLAY_OR_MERGED,37,36,36
+aristanetworks/avd,H04,Wave 1,OLD_OWNER_OMISSION_IN_REPLAY_OR_MERGED,35,34,34
+bbdsoftware/litellm-operator,H06,Wave 1,OLD_OWNER_OMISSION_IN_REPLAY_OR_MERGED,13,13,13
+buildkite/test-engine-client,H09,Wave 2,OLD_OWNER_OMISSION_IN_REPLAY_OR_MERGED,5,5,5
+mpe-es/ansible-role-vault,,Wave 1,MERGED_ONLY_NEW_OWNER_ADDITION,7,7,7
+quynhonsemiconductor/infra-template,H05,Wave 1,OLD_OWNER_OMISSION_IN_REPLAY_OR_MERGED,9,8,8
+seebom-labs/BOMHort,,Wave 1,REPLAY_ONLY_LEGACY_REVIEWER_ASSIGNMENT,27,8,8
+system76/tech-docs,,Wave 1,REPLAY_ONLY_LEGACY_REVIEWER_ASSIGNMENT,11,6,6

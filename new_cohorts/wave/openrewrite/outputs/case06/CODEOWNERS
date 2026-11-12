@@ -1,0 +1,28 @@
+* @navikt/copilot
+
+# Reviewers migrated from the Dependabot configuration
+/.github/workflows/ @navikt/copilot
+/apps/my-copilot/package.json @navikt/copilot
+/apps/my-copilot/package-lock.json @navikt/copilot
+/apps/my-copilot/yarn.lock @navikt/copilot
+/apps/my-copilot/pnpm-lock.yaml @navikt/copilot
+/apps/copilot-api/go.mod @navikt/copilot
+/apps/copilot-api/go.sum @navikt/copilot
+/apps/copilot-adoption/go.mod @navikt/copilot
+/apps/copilot-adoption/go.sum @navikt/copilot
+/apps/copilot-cli/go.mod @navikt/copilot
+/apps/copilot-cli/go.sum @navikt/copilot
+/apps/copilot-survey/go.mod @navikt/copilot
+/apps/copilot-survey/go.sum @navikt/copilot
+/apps/copilot-metrics/go.mod @navikt/copilot
+/apps/copilot-metrics/go.sum @navikt/copilot
+/apps/mcp-onboarding/go.mod @navikt/copilot
+/apps/mcp-onboarding/go.sum @navikt/copilot
+/apps/mcp-registry/go.mod @navikt/copilot
+/apps/mcp-registry/go.sum @navikt/copilot
+/cli/nav-pilot/go.mod @navikt/copilot
+/cli/nav-pilot/go.sum @navikt/copilot
+/scripts/generate-docs/go.mod @navikt/copilot
+/scripts/generate-docs/go.sum @navikt/copilot
+/scripts/generate-retired/go.mod @navikt/copilot
+/scripts/generate-retired/go.sum @navikt/copilot

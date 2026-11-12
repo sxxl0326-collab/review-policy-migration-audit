@@ -1,0 +1,15 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/backend/Pipfile.lock @your-github-username
+/backend/pyproject.toml @your-github-username
+/backend/requirements.txt @your-github-username
+/backend/setup.cfg @your-github-username
+/backend/setup.py @your-github-username
+/frontend/npm-shrinkwrap.json @your-github-username
+/frontend/package-lock.json @your-github-username
+/frontend/package.json @your-github-username
+/frontend/pnpm-lock.yaml @your-github-username
+/frontend/yarn.lock @your-github-username
+/backend/Pipfile @your-github-username
+/backend/requirements/*.txt @your-github-username
+/backend/**/requirements/*.txt @your-github-username

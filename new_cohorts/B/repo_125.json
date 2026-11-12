@@ -1,0 +1,120 @@
+{
+  "repo": "artislismanis/obsidian-agent-sandbox",
+  "index": 125,
+  "start": "2026-06-08T10:05:12+00:00",
+  "end": "2026-09-06T10:05:12+00:00",
+  "branch": "main",
+  "migration": "https://github.com/artislismanis/obsidian-agent-sandbox/pull/219",
+  "selected": [
+    "https://github.com/artislismanis/obsidian-agent-sandbox/pull/222",
+    "https://github.com/artislismanis/obsidian-agent-sandbox/pull/224",
+    "https://github.com/artislismanis/obsidian-agent-sandbox/pull/225"
+  ],
+  "records": [
+    {
+      "url": "https://github.com/artislismanis/obsidian-agent-sandbox/pull/222",
+      "author": "artislismanis",
+      "old": [],
+      "new": [],
+      "raw": [],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          ".github/dependabot.yml"
+        ]
+      ],
+      "base": "d3c228e1ebc2d3d7d96acfad5ea7d9174e4b3a71",
+      "requests": []
+    },
+    {
+      "url": "https://github.com/artislismanis/obsidian-agent-sandbox/pull/224",
+      "author": "artislismanis",
+      "old": [],
+      "new": [],
+      "raw": [],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "container/CLAUDE.md"
+        ],
+        [
+          null,
+          "container/scripts/entrypoint.sh"
+        ],
+        [
+          null,
+          "container/test-scripts/mcp-common.sh"
+        ],
+        [
+          null,
+          "docs/explanation/architecture.md"
+        ],
+        [
+          null,
+          "docs/explanation/audit-2026-06.md"
+        ],
+        [
+          null,
+          "docs/how-to/configure-firewall.md"
+        ],
+        [
+          null,
+          "docs/testing.md"
+        ],
+        [
+          null,
+          "plugin/src/__tests__/settings-migrate.test.ts"
+        ],
+        [
+          null,
+          "plugin/src/__tests__/ttyd-client.test.ts"
+        ],
+        [
+          null,
+          "plugin/src/docker.ts"
+        ],
+        [
+          null,
+          "plugin/src/main.ts"
+        ],
+        [
+          null,
+          "plugin/src/settings.ts"
+        ],
+        [
+          null,
+          "plugin/src/terminal-view.ts"
+        ],
+        [
+          null,
+          "plugin/src/ttyd-client.ts"
+        ],
+        [
+          null,
+          "workspace/CLAUDE.md"
+        ]
+      ],
+      "base": "e5be8588984017f21ed7cc3015280ca4f21cc5fc",
+      "requests": []
+    },
+    {
+      "url": "https://github.com/artislismanis/obsidian-agent-sandbox/pull/225",
+      "author": "artislismanis",
+      "old": [],
+      "new": [],
+      "raw": [],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "plugin/package-lock.json"
+        ]
+      ],
+      "base": "38060028c4e7d7d3f0ff029736ae6f7336da15c7",
+      "requests": []
+    }
+  ],
+  "query": "repo:artislismanis/obsidian-agent-sandbox is:pr is:merged base:main created:>2026-06-08T10:05:12Z merged:<=2026-09-06T10:05:12Z"
+}

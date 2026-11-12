@@ -1,0 +1,444 @@
+[
+  {
+    "name": "github_first",
+    "category": "location",
+    "text": null,
+    "path": "src/a.py",
+    "expected": [
+      "@github"
+    ],
+    "files": {
+      ".github/CODEOWNERS": "* @github\n",
+      "CODEOWNERS": "* @root\n",
+      "docs/CODEOWNERS": "* @docs\n"
+    },
+    "expected_active": ".github/CODEOWNERS",
+    "active_file": ".github/CODEOWNERS",
+    "evaluated_text": "* @github\n",
+    "actual": [
+      "@github"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "root_before_docs",
+    "category": "location",
+    "text": null,
+    "path": "src/a.py",
+    "expected": [
+      "@root"
+    ],
+    "files": {
+      "CODEOWNERS": "* @root\n",
+      "docs/CODEOWNERS": "* @docs\n"
+    },
+    "expected_active": "CODEOWNERS",
+    "active_file": "CODEOWNERS",
+    "evaluated_text": "* @root\n",
+    "actual": [
+      "@root"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "docs_fallback",
+    "category": "location",
+    "text": null,
+    "path": "src/a.py",
+    "expected": [
+      "@docs"
+    ],
+    "files": {
+      "docs/CODEOWNERS": "* @docs\n"
+    },
+    "expected_active": "docs/CODEOWNERS",
+    "active_file": "docs/CODEOWNERS",
+    "evaluated_text": "* @docs\n",
+    "actual": [
+      "@docs"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "empty_github_shadows_root",
+    "category": "location",
+    "text": null,
+    "path": "src/a.py",
+    "expected": [],
+    "files": {
+      ".github/CODEOWNERS": "",
+      "CODEOWNERS": "* @root\n"
+    },
+    "expected_active": ".github/CODEOWNERS",
+    "active_file": ".github/CODEOWNERS",
+    "evaluated_text": "",
+    "actual": [],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "specific_overrides_global",
+    "category": "last_match",
+    "text": "* @old @other\n/src/a.py @new\n",
+    "path": "src/a.py",
+    "expected": [
+      "@new"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "* @old @other\n/src/a.py @new\n",
+    "actual": [
+      "@new"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "global_later_overrides_specific",
+    "category": "last_match",
+    "text": "/src/a.py @new\n* @old\n",
+    "path": "src/a.py",
+    "expected": [
+      "@old"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "/src/a.py @new\n* @old\n",
+    "actual": [
+      "@old"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "same_pattern_last_line",
+    "category": "last_match",
+    "text": "/a.py @first\n/a.py @second\n",
+    "path": "a.py",
+    "expected": [
+      "@second"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "/a.py @first\n/a.py @second\n",
+    "actual": [
+      "@second"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "owners_on_one_line_union",
+    "category": "last_match",
+    "text": "/a.py @first @second\n",
+    "path": "a.py",
+    "expected": [
+      "@first",
+      "@second"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "/a.py @first @second\n",
+    "actual": [
+      "@first",
+      "@second"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "case_exact",
+    "category": "case",
+    "text": "/README.md @read\n",
+    "path": "README.md",
+    "expected": [
+      "@read"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "/README.md @read\n",
+    "actual": [
+      "@read"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "case_filename_mismatch",
+    "category": "case",
+    "text": "/README.md @read\n",
+    "path": "readme.md",
+    "expected": [],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "/README.md @read\n",
+    "actual": [],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "case_directory_mismatch",
+    "category": "case",
+    "text": "/Src/ @read\n",
+    "path": "src/a.py",
+    "expected": [],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "/Src/ @read\n",
+    "actual": [],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "case_distinct_rules",
+    "category": "case",
+    "text": "/README.md @upper\n/readme.md @lower\n",
+    "path": "readme.md",
+    "expected": [
+      "@lower"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "/README.md @upper\n/readme.md @lower\n",
+    "actual": [
+      "@lower"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "empty_later_removes_ownership",
+    "category": "empty_owner",
+    "text": "* @old\n/docs/\n",
+    "path": "docs/a.md",
+    "expected": [],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "* @old\n/docs/\n",
+    "actual": [],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "empty_earlier_then_assigned",
+    "category": "empty_owner",
+    "text": "/docs/\n/docs/a.md @later\n",
+    "path": "docs/a.md",
+    "expected": [
+      "@later"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "/docs/\n/docs/a.md @later\n",
+    "actual": [
+      "@later"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "empty_with_inline_comment",
+    "category": "empty_owner",
+    "text": "* @old\n/docs/ # intentionally empty\n",
+    "path": "docs/a.md",
+    "expected": [],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "* @old\n/docs/ # intentionally empty\n",
+    "actual": [],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "invalid_negation_conservative",
+    "category": "unsupported_syntax",
+    "text": "* @default\n!a.py @bad\n",
+    "path": "a.py",
+    "expected": "UNKNOWN",
+    "backend_skip_reference": [
+      "@default"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "* @default\n!a.py @bad\n",
+    "actual": "UNKNOWN",
+    "passed": true,
+    "error": "unsupported GitHub pattern: !a.py",
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "invalid_range_conservative",
+    "category": "unsupported_syntax",
+    "text": "* @default\n/[ab].py @bad\n",
+    "path": "a.py",
+    "expected": "UNKNOWN",
+    "backend_skip_reference": [
+      "@default"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "* @default\n/[ab].py @bad\n",
+    "actual": "UNKNOWN",
+    "passed": true,
+    "error": "unsupported GitHub pattern: /[ab].py",
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "unterminated_range_conservative",
+    "category": "unsupported_syntax",
+    "text": "* @default\n/[ab.py @bad\n",
+    "path": "a.py",
+    "expected": "UNKNOWN",
+    "backend_skip_reference": [
+      "@default"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "* @default\n/[ab.py @bad\n",
+    "actual": "UNKNOWN",
+    "passed": true,
+    "error": "unsupported GitHub pattern: /[ab.py",
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "base_main_not_head",
+    "category": "explicit_base_snapshot",
+    "text": null,
+    "path": "src/a.py",
+    "expected": [
+      "@main"
+    ],
+    "base_branch": "main",
+    "head_branch": "head",
+    "branches": {
+      "main": {
+        ".github/CODEOWNERS": "* @main\n"
+      },
+      "release": {
+        ".github/CODEOWNERS": "* @release\n"
+      },
+      "head": {
+        ".github/CODEOWNERS": "* @head\n"
+      }
+    },
+    "active_file": ".github/CODEOWNERS",
+    "evaluated_text": "* @main\n",
+    "actual": [
+      "@main"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Explicit base-snapshot input, not live branch discovery"
+  },
+  {
+    "name": "base_release_not_main",
+    "category": "explicit_base_snapshot",
+    "text": null,
+    "path": "src/a.py",
+    "expected": [
+      "@release"
+    ],
+    "base_branch": "release",
+    "head_branch": "head",
+    "branches": {
+      "main": {
+        ".github/CODEOWNERS": "* @main\n"
+      },
+      "release": {
+        ".github/CODEOWNERS": "* @release\n"
+      },
+      "head": {
+        ".github/CODEOWNERS": "* @head\n"
+      }
+    },
+    "active_file": ".github/CODEOWNERS",
+    "evaluated_text": "* @release\n",
+    "actual": [
+      "@release"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Explicit base-snapshot input, not live branch discovery"
+  },
+  {
+    "name": "same_path_different_base",
+    "category": "explicit_base_snapshot",
+    "text": null,
+    "path": "src/a.py",
+    "expected": [
+      "@head"
+    ],
+    "base_branch": "head",
+    "head_branch": "main",
+    "branches": {
+      "main": {
+        ".github/CODEOWNERS": "* @main\n"
+      },
+      "release": {
+        ".github/CODEOWNERS": "* @release\n"
+      },
+      "head": {
+        ".github/CODEOWNERS": "* @head\n"
+      }
+    },
+    "active_file": ".github/CODEOWNERS",
+    "evaluated_text": "* @head\n",
+    "actual": [
+      "@head"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Explicit base-snapshot input, not live branch discovery"
+  },
+  {
+    "name": "space_filename_wildcard",
+    "category": "spaces_and_anchor",
+    "text": "/docs/*.md @docs\n",
+    "path": "docs/a b.md",
+    "expected": [
+      "@docs"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "/docs/*.md @docs\n",
+    "actual": [
+      "@docs"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "escaped_space_exact",
+    "category": "spaces_and_anchor",
+    "text": "/docs/a\\ b.md @docs\n",
+    "path": "docs/a b.md",
+    "expected": [
+      "@docs"
+    ],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "/docs/a\\ b.md @docs\n",
+    "actual": [
+      "@docs"
+    ],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  },
+  {
+    "name": "root_anchored_not_nested",
+    "category": "spaces_and_anchor",
+    "text": "/package.json @root\n",
+    "path": "sub/package.json",
+    "expected": [],
+    "active_file": "fixture.CODEOWNERS",
+    "evaluated_text": "/package.json @root\n",
+    "actual": [],
+    "passed": true,
+    "error": null,
+    "test_scope": "Literal declaration semantics"
+  }
+]

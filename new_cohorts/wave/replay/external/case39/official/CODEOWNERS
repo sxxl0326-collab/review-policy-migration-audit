@@ -1,0 +1,4 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/composer.json @wmde/funtech-core
+/composer.lock @wmde/funtech-core

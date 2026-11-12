@@ -1,0 +1,10 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/action.yaml @pacificporter/developers
+/action.yml @pacificporter/developers
+/go.mod @pacificporter/developers
+/go.sum @pacificporter/developers
+/.github/workflows/*.yaml @pacificporter/developers
+/.github/workflows/*.yml @pacificporter/developers
+/**/.github/workflows/*.yaml @pacificporter/developers
+/**/.github/workflows/*.yml @pacificporter/developers

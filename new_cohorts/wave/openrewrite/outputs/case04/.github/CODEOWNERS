@@ -1,0 +1,9 @@
+* @okdesign21
+
+# Reviewers migrated from the Dependabot configuration
+/Dockerfile @okdesign21
+/.github/workflows/ @okdesign21
+/requirements.txt @okdesign21
+/pyproject.toml @okdesign21
+/Pipfile @okdesign21
+/Pipfile.lock @okdesign21

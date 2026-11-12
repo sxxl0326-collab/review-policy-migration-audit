@@ -1,0 +1,526 @@
+{
+  "query": "is:pr is:merged \"reviewers\" \"CODEOWNERS\" \"dependabot\" in:body created:2026-10-18..2026-11-11",
+  "later_raw": 379,
+  "selected": [
+    {
+      "index": 1,
+      "repo": "amdahlco/skills",
+      "namespace": "amdahlco",
+      "number": 1,
+      "url": "https://github.com/amdahlco/skills/pull/1",
+      "pr_api": "https://api.github.com/repos/amdahlco/skills/pulls/1",
+      "stratum": "later",
+      "title": "chore: SECURITY.md, Dependabot, CODEOWNERS cleanup (public-repo baseline)"
+    },
+    {
+      "index": 2,
+      "repo": "leonatwork/Tappi",
+      "namespace": "leonatwork",
+      "number": 41,
+      "url": "https://github.com/leonatwork/Tappi/pull/41",
+      "pr_api": "https://api.github.com/repos/leonatwork/Tappi/pulls/41",
+      "stratum": "later",
+      "title": "agent: #33 [Checkup] Repo-Hygiene-Dateien ergänzen (SECURITY.md, CODEOWNERS, Dependabot, PR-Vorlage)"
+    },
+    {
+      "index": 3,
+      "repo": "microsoft/discovery",
+      "namespace": "microsoft",
+      "number": 293,
+      "url": "https://github.com/microsoft/discovery/pull/293",
+      "pr_api": "https://api.github.com/repos/microsoft/discovery/pulls/293",
+      "stratum": "later",
+      "title": "chore(codeowners): let contributions reviewers approve Dependabot CI dependency updates"
+    },
+    {
+      "index": 4,
+      "repo": "okdesign21/ortflix-integrations-bot",
+      "namespace": "okdesign21",
+      "number": 69,
+      "url": "https://github.com/okdesign21/ortflix-integrations-bot/pull/69",
+      "pr_api": "https://api.github.com/repos/okdesign21/ortflix-integrations-bot/pulls/69",
+      "stratum": "later",
+      "title": "chore(dependabot): remove unsupported reviewers option"
+    },
+    {
+      "index": 5,
+      "repo": "creatorainco/venue-call-agent",
+      "namespace": "creatorainco",
+      "number": 15,
+      "url": "https://github.com/creatorainco/venue-call-agent/pull/15",
+      "pr_api": "https://api.github.com/repos/creatorainco/venue-call-agent/pulls/15",
+      "stratum": "later",
+      "title": "chore: LICENSE, SECURITY.md, CODEOWNERS and Dependabot config"
+    },
+    {
+      "index": 6,
+      "repo": "navikt/copilot",
+      "namespace": "navikt",
+      "number": 2059,
+      "url": "https://github.com/navikt/copilot/pull/2059",
+      "pr_api": "https://api.github.com/repos/navikt/copilot/pulls/2059",
+      "stratum": "later",
+      "title": "chore(deps): drop removed Dependabot reviewers option"
+    },
+    {
+      "index": 7,
+      "repo": "Danny-TMIG/ucs",
+      "namespace": "danny-tmig",
+      "number": 5,
+      "url": "https://github.com/Danny-TMIG/ucs/pull/5",
+      "pr_api": "https://api.github.com/repos/Danny-TMIG/ucs/pulls/5",
+      "stratum": "later",
+      "title": "chore: maximal CODEOWNERS, 4-ecosystem dependabot, runbook baseline"
+    },
+    {
+      "index": 8,
+      "repo": "FrankAndreas/family-budget-dashboard",
+      "namespace": "frankandreas",
+      "number": 64,
+      "url": "https://github.com/FrankAndreas/family-budget-dashboard/pull/64",
+      "pr_api": "https://api.github.com/repos/FrankAndreas/family-budget-dashboard/pulls/64",
+      "stratum": "later",
+      "title": "ci: fix Dependabot assignees and drop placeholder reviewers"
+    },
+    {
+      "index": 9,
+      "repo": "Michella-stack/Stellar-Split",
+      "namespace": "michella-stack",
+      "number": 60,
+      "url": "https://github.com/Michella-stack/Stellar-Split/pull/60",
+      "pr_api": "https://api.github.com/repos/Michella-stack/Stellar-Split/pulls/60",
+      "stratum": "later",
+      "title": "ci: shell checks, Dependabot per package, CODEOWNERS for mcp and scripts"
+    },
+    {
+      "index": 10,
+      "repo": "LLM-4-People/bridlewise-testing",
+      "namespace": "llm-4-people",
+      "number": 123,
+      "url": "https://github.com/LLM-4-People/bridlewise-testing/pull/123",
+      "pr_api": "https://api.github.com/repos/LLM-4-People/bridlewise-testing/pulls/123",
+      "stratum": "later",
+      "title": "forge: settings as code: harness forge plan|apply|audit, generated declarations, Dependabot, CODEOWNERS (GH-1, P2.1/P2.2/P2.5; stacked on #96)"
+    },
+    {
+      "index": 11,
+      "repo": "kadeemj/URL-Safety-Checker",
+      "namespace": "kadeemj",
+      "number": 29,
+      "url": "https://github.com/kadeemj/URL-Safety-Checker/pull/29",
+      "pr_api": "https://api.github.com/repos/kadeemj/URL-Safety-Checker/pulls/29",
+      "stratum": "later",
+      "title": "Add CODEOWNERS so Dependabot PRs request my review"
+    },
+    {
+      "index": 12,
+      "repo": "cornelius-99/bitbucket-mcp",
+      "namespace": "cornelius-99",
+      "number": 12,
+      "url": "https://github.com/cornelius-99/bitbucket-mcp/pull/12",
+      "pr_api": "https://api.github.com/repos/cornelius-99/bitbucket-mcp/pulls/12",
+      "stratum": "later",
+      "title": "Add CODEOWNERS and Dependabot assignee"
+    },
+    {
+      "index": 13,
+      "repo": "pulumiverse/pulumi-heroku",
+      "namespace": "pulumiverse",
+      "number": 163,
+      "url": "https://github.com/pulumiverse/pulumi-heroku/pull/163",
+      "pr_api": "https://api.github.com/repos/pulumiverse/pulumi-heroku/pulls/163",
+      "stratum": "archive",
+      "title": "Feature/add codeowners"
+    },
+    {
+      "index": 14,
+      "repo": "databricks-solutions/databricks-genie-workbench",
+      "namespace": "databricks-solutions",
+      "number": 294,
+      "url": "https://github.com/databricks-solutions/databricks-genie-workbench/pull/294",
+      "pr_api": "https://api.github.com/repos/databricks-solutions/databricks-genie-workbench/pulls/294",
+      "stratum": "archive",
+      "title": "ci: add GitHub Pages docs-deploy workflow; move CODEOWNERS to recognized path"
+    },
+    {
+      "index": 15,
+      "repo": "farm-urban/fufarm_arduino_sensors",
+      "namespace": "farm-urban",
+      "number": 64,
+      "url": "https://github.com/farm-urban/fufarm_arduino_sensors/pull/64",
+      "pr_api": "https://api.github.com/repos/farm-urban/fufarm_arduino_sensors/pulls/64",
+      "stratum": "archive",
+      "title": "Add CODEOWNERS file to assign default reviewers for all changes"
+    },
+    {
+      "index": 16,
+      "repo": "pyhf/pyhf-tutorial",
+      "namespace": "pyhf",
+      "number": 101,
+      "url": "https://github.com/pyhf/pyhf-tutorial/pull/101",
+      "pr_api": "https://api.github.com/repos/pyhf/pyhf-tutorial/pulls/101",
+      "stratum": "archive",
+      "title": "chore: Add CODEOWNERS file"
+    },
+    {
+      "index": 17,
+      "repo": "damien-robotsix/robotsix-calendar",
+      "namespace": "damien-robotsix",
+      "number": 178,
+      "url": "https://github.com/damien-robotsix/robotsix-calendar/pull/178",
+      "pr_api": "https://api.github.com/repos/damien-robotsix/robotsix-calendar/pulls/178",
+      "stratum": "archive",
+      "title": "mill: Add .github/CODEOWNERS and PR/issue templates to improve review routing (20260629T030641Z-add-github-codeowners-and-pr-issue-templ-2038)"
+    },
+    {
+      "index": 18,
+      "repo": "justin13888/Sunrise",
+      "namespace": "justin13888",
+      "number": 305,
+      "url": "https://github.com/justin13888/Sunrise/pull/305",
+      "pr_api": "https://api.github.com/repos/justin13888/Sunrise/pulls/305",
+      "stratum": "archive",
+      "title": "chore(governance): delete CODEOWNERS, and correct the three documents that cited it"
+    },
+    {
+      "index": 19,
+      "repo": "tarcisiopgs/lisa",
+      "namespace": "tarcisiopgs",
+      "number": 250,
+      "url": "https://github.com/tarcisiopgs/lisa/pull/250",
+      "pr_api": "https://api.github.com/repos/tarcisiopgs/lisa/pulls/250",
+      "stratum": "archive",
+      "title": "chore: add CODEOWNERS so bot PRs request review"
+    },
+    {
+      "index": 20,
+      "repo": "gravitational/teleport",
+      "namespace": "gravitational",
+      "number": 65544,
+      "url": "https://github.com/gravitational/teleport/pull/65544",
+      "pr_api": "https://api.github.com/repos/gravitational/teleport/pulls/65544",
+      "stratum": "archive",
+      "title": "Add codeowners for go.mod files in examples"
+    },
+    {
+      "index": 21,
+      "repo": "gpu7/agent-bitcoin",
+      "namespace": "gpu7",
+      "number": 43,
+      "url": "https://github.com/gpu7/agent-bitcoin/pull/43",
+      "pr_api": "https://api.github.com/repos/gpu7/agent-bitcoin/pulls/43",
+      "stratum": "archive",
+      "title": "Add solo-friendly GitHub Free security docs and CODEOWNERS"
+    },
+    {
+      "index": 22,
+      "repo": "crsren/hedgerow",
+      "namespace": "crsren",
+      "number": 22,
+      "url": "https://github.com/crsren/hedgerow/pull/22",
+      "pr_api": "https://api.github.com/repos/crsren/hedgerow/pulls/22",
+      "stratum": "archive",
+      "title": "ci: scope CODEOWNERS to irreversible paths, require the react matrix"
+    },
+    {
+      "index": 23,
+      "repo": "ali-ulu/levh",
+      "namespace": "ali-ulu",
+      "number": 174,
+      "url": "https://github.com/ali-ulu/levh/pull/174",
+      "pr_api": "https://api.github.com/repos/ali-ulu/levh/pulls/174",
+      "stratum": "archive",
+      "title": "[#153] repo-process: issue/PR template, CODEOWNERS, pre-commit ve topluluk dosyaları eksik"
+    },
+    {
+      "index": 24,
+      "repo": "Scalingo/errgo-rollbar",
+      "namespace": "scalingo",
+      "number": 15,
+      "url": "https://github.com/Scalingo/errgo-rollbar/pull/15",
+      "pr_api": "https://api.github.com/repos/Scalingo/errgo-rollbar/pulls/15",
+      "stratum": "archive",
+      "title": "[STORY-2085] Update Go to 1.24 and migrate to CODEOWNERS"
+    },
+    {
+      "index": 25,
+      "repo": "semestry/slackbot-release",
+      "namespace": "semestry",
+      "number": 132,
+      "url": "https://github.com/semestry/slackbot-release/pull/132",
+      "pr_api": "https://api.github.com/repos/semestry/slackbot-release/pulls/132",
+      "stratum": "archive",
+      "title": "Create CODEOWNERS file"
+    },
+    {
+      "index": 26,
+      "repo": "gianlucamazza/ragfs",
+      "namespace": "gianlucamazza",
+      "number": 146,
+      "url": "https://github.com/gianlucamazza/ragfs/pull/146",
+      "pr_api": "https://api.github.com/repos/gianlucamazza/ragfs/pulls/146",
+      "stratum": "archive",
+      "title": "chore: replace Venere2025lab codeowners with gianlucamazza"
+    },
+    {
+      "index": 27,
+      "repo": "nordic-institute/X-Road",
+      "namespace": "nordic-institute",
+      "number": 2835,
+      "url": "https://github.com/nordic-institute/X-Road/pull/2835",
+      "pr_api": "https://api.github.com/repos/nordic-institute/X-Road/pulls/2835",
+      "stratum": "archive",
+      "title": "feat: switch to using CODEOWNERS due to reviewers deprecation in dependaboy.yml"
+    },
+    {
+      "index": 28,
+      "repo": "Time-Bomb-Org/.github",
+      "namespace": "time-bomb-org",
+      "number": 1,
+      "url": "https://github.com/Time-Bomb-Org/.github/pull/1",
+      "pr_api": "https://api.github.com/repos/Time-Bomb-Org/.github/pulls/1",
+      "stratum": "archive",
+      "title": "ci: add reusable auto-assign reviewers workflow [TB-1]"
+    },
+    {
+      "index": 29,
+      "repo": "Via-Vitae/viavitae-infra",
+      "namespace": "via-vitae",
+      "number": 5,
+      "url": "https://github.com/Via-Vitae/viavitae-infra/pull/5",
+      "pr_api": "https://api.github.com/repos/Via-Vitae/viavitae-infra/pulls/5",
+      "stratum": "archive",
+      "title": "fix(governance): sole-owner CODEOWNERS + four-eyes review model"
+    },
+    {
+      "index": 30,
+      "repo": "pablo-albaladejo/trainingpeaks-sdk",
+      "namespace": "pablo-albaladejo",
+      "number": 66,
+      "url": "https://github.com/pablo-albaladejo/trainingpeaks-sdk/pull/66",
+      "pr_api": "https://api.github.com/repos/pablo-albaladejo/trainingpeaks-sdk/pulls/66",
+      "stratum": "archive",
+      "title": "fix: resolve invalid GitHub username references in CODEOWNERS"
+    },
+    {
+      "index": 31,
+      "repo": "KooshaPari/HeliosCLI",
+      "namespace": "kooshapari",
+      "number": 516,
+      "url": "https://github.com/KooshaPari/HeliosCLI/pull/516",
+      "pr_api": "https://api.github.com/repos/KooshaPari/HeliosCLI/pulls/516",
+      "stratum": "archive",
+      "title": "chore(codeowners): expand placeholder to real ownership rules"
+    },
+    {
+      "index": 32,
+      "repo": "getoptimum/optimum-common",
+      "namespace": "getoptimum",
+      "number": 161,
+      "url": "https://github.com/getoptimum/optimum-common/pull/161",
+      "pr_api": "https://api.github.com/repos/getoptimum/optimum-common/pulls/161",
+      "stratum": "archive",
+      "title": "chore: add CODEOWNERS"
+    },
+    {
+      "index": 33,
+      "repo": "daytonaio/daytona",
+      "namespace": "daytonaio",
+      "number": 4535,
+      "url": "https://github.com/daytonaio/daytona/pull/4535",
+      "pr_api": "https://api.github.com/repos/daytonaio/daytona/pulls/4535",
+      "stratum": "archive",
+      "title": "chore(security): expand CODEOWNERS coverage for CI/CD and supply chain"
+    },
+    {
+      "index": 34,
+      "repo": "knocklabs/javascript",
+      "namespace": "knocklabs",
+      "number": 552,
+      "url": "https://github.com/knocklabs/javascript/pull/552",
+      "pr_api": "https://api.github.com/repos/knocklabs/javascript/pulls/552",
+      "stratum": "archive",
+      "title": "chore(KNO-8659): add CODEOWNERS file"
+    },
+    {
+      "index": 35,
+      "repo": "VerifiedInc/shared-ui-elements",
+      "namespace": "verifiedinc",
+      "number": 350,
+      "url": "https://github.com/VerifiedInc/shared-ui-elements/pull/350",
+      "pr_api": "https://api.github.com/repos/VerifiedInc/shared-ui-elements/pulls/350",
+      "stratum": "archive",
+      "title": "chore: Remove deprecated charts and add CODEOWNERS file"
+    },
+    {
+      "index": 36,
+      "repo": "Quantum-L9/Cursor-Governance",
+      "namespace": "quantum-l9",
+      "number": 133,
+      "url": "https://github.com/Quantum-L9/Cursor-Governance/pull/133",
+      "pr_api": "https://api.github.com/repos/Quantum-L9/Cursor-Governance/pulls/133",
+      "stratum": "archive",
+      "title": "chore(codeowners): disable auto review requests (solo maintainer)"
+    },
+    {
+      "index": 37,
+      "repo": "Oppex-AI/oak-java",
+      "namespace": "oppex-ai",
+      "number": 1,
+      "url": "https://github.com/Oppex-AI/oak-java/pull/1",
+      "pr_api": "https://api.github.com/repos/Oppex-AI/oak-java/pulls/1",
+      "stratum": "archive",
+      "title": "Open-source governance: CI, CODEOWNERS, contributing, security, release policy"
+    },
+    {
+      "index": 38,
+      "repo": "Jizai-inc/palmimo-devkit",
+      "namespace": "jizai-inc",
+      "number": 13,
+      "url": "https://github.com/Jizai-inc/palmimo-devkit/pull/13",
+      "pr_api": "https://api.github.com/repos/Jizai-inc/palmimo-devkit/pulls/13",
+      "stratum": "archive",
+      "title": "chore(github): drop CODEOWNERS and assign reviewers by hand"
+    },
+    {
+      "index": 39,
+      "repo": "wmde/fundraising-address-change",
+      "namespace": "wmde",
+      "number": 92,
+      "url": "https://github.com/wmde/fundraising-address-change/pull/92",
+      "pr_api": "https://api.github.com/repos/wmde/fundraising-address-change/pulls/92",
+      "stratum": "archive",
+      "title": "Introduce CODEOWNERS, remove deprecated reviewers"
+    },
+    {
+      "index": 40,
+      "repo": "Khan/perseus",
+      "namespace": "khan",
+      "number": 4263,
+      "url": "https://github.com/Khan/perseus/pull/4263",
+      "pr_api": "https://api.github.com/repos/Khan/perseus/pulls/4263",
+      "stratum": "archive",
+      "title": "Update CODEOWNERS file (correcting syntax and cleaning up)"
+    },
+    {
+      "index": 41,
+      "repo": "HarperFast/harper",
+      "namespace": "harperfast",
+      "number": 2303,
+      "url": "https://github.com/HarperFast/harper/pull/2303",
+      "pr_api": "https://api.github.com/repos/HarperFast/harper/pulls/2303",
+      "stratum": "archive",
+      "title": "Assign dependency-bot PRs to a single reviewer"
+    },
+    {
+      "index": 42,
+      "repo": "konflux-ci/konflux-test",
+      "namespace": "konflux-ci",
+      "number": 465,
+      "url": "https://github.com/konflux-ci/konflux-test/pull/465",
+      "pr_api": "https://api.github.com/repos/konflux-ci/konflux-test/pulls/465",
+      "stratum": "archive",
+      "title": "chore: add CODEOWNERS"
+    },
+    {
+      "index": 43,
+      "repo": "pacificporter/surf",
+      "namespace": "pacificporter",
+      "number": 140,
+      "url": "https://github.com/pacificporter/surf/pull/140",
+      "pr_api": "https://api.github.com/repos/pacificporter/surf/pulls/140",
+      "stratum": "archive",
+      "title": ".github/CODEOWNERS を追加"
+    },
+    {
+      "index": 44,
+      "repo": "rudderlabs/rudder-sdk-react-native",
+      "namespace": "rudderlabs",
+      "number": 656,
+      "url": "https://github.com/rudderlabs/rudder-sdk-react-native/pull/656",
+      "pr_api": "https://api.github.com/repos/rudderlabs/rudder-sdk-react-native/pulls/656",
+      "stratum": "archive",
+      "title": "chore(codeowners): set sdk_team as code owners"
+    },
+    {
+      "index": 45,
+      "repo": "MeadowlarkEngineering/sqlark",
+      "namespace": "meadowlarkengineering",
+      "number": 12,
+      "url": "https://github.com/MeadowlarkEngineering/sqlark/pull/12",
+      "pr_api": "https://api.github.com/repos/MeadowlarkEngineering/sqlark/pulls/12",
+      "stratum": "archive",
+      "title": "chore: add CODEOWNERS to route reviews to the meadowbot team"
+    },
+    {
+      "index": 46,
+      "repo": "SpectoLabs/hoverfly-github-action",
+      "namespace": "spectolabs",
+      "number": 113,
+      "url": "https://github.com/SpectoLabs/hoverfly-github-action/pull/113",
+      "pr_api": "https://api.github.com/repos/SpectoLabs/hoverfly-github-action/pulls/113",
+      "stratum": "archive",
+      "title": "Use CODEOWNERS file as reviewers is deprecated"
+    },
+    {
+      "index": 47,
+      "repo": "alliander-opensource/transformer-thermal-model",
+      "namespace": "alliander-opensource",
+      "number": 21,
+      "url": "https://github.com/alliander-opensource/transformer-thermal-model/pull/21",
+      "pr_api": "https://api.github.com/repos/alliander-opensource/transformer-thermal-model/pulls/21",
+      "stratum": "archive",
+      "title": "Chore: add codeowners file"
+    },
+    {
+      "index": 48,
+      "repo": "FlowCrypt/flowcrypt-android",
+      "namespace": "flowcrypt",
+      "number": 3043,
+      "url": "https://github.com/FlowCrypt/flowcrypt-android/pull/3043",
+      "pr_api": "https://api.github.com/repos/FlowCrypt/flowcrypt-android/pulls/3043",
+      "stratum": "archive",
+      "title": "Modified CODEOWNERS"
+    },
+    {
+      "index": 49,
+      "repo": "unhappychoice/RxSnackbar",
+      "namespace": "unhappychoice",
+      "number": 234,
+      "url": "https://github.com/unhappychoice/RxSnackbar/pull/234",
+      "pr_api": "https://api.github.com/repos/unhappychoice/RxSnackbar/pulls/234",
+      "stratum": "archive",
+      "title": "chore: add CODEOWNERS for review request automation"
+    },
+    {
+      "index": 50,
+      "repo": "P-manBrown/tascon-backend",
+      "namespace": "p-manbrown",
+      "number": 360,
+      "url": "https://github.com/P-manBrown/tascon-backend/pull/360",
+      "pr_api": "https://api.github.com/repos/P-manBrown/tascon-backend/pulls/360",
+      "stratum": "archive",
+      "title": "chore: replace depandabot reviewers with CODEOWNERS"
+    },
+    {
+      "index": 51,
+      "repo": "bounded-systems/prx",
+      "namespace": "bounded-systems",
+      "number": 618,
+      "url": "https://github.com/bounded-systems/prx/pull/618",
+      "pr_api": "https://api.github.com/repos/bounded-systems/prx/pulls/618",
+      "stratum": "archive",
+      "title": "chore(ci): add CODEOWNERS + dependency-review workflow"
+    },
+    {
+      "index": 52,
+      "repo": "czbiohub-sf/gene2fish",
+      "namespace": "czbiohub-sf",
+      "number": 138,
+      "url": "https://github.com/czbiohub-sf/gene2fish/pull/138",
+      "pr_api": "https://api.github.com/repos/czbiohub-sf/gene2fish/pulls/138",
+      "stratum": "archive",
+      "title": "docs: add CODEOWNERS, MIT license, SECURITY.md, and CODE_OF_CONDUCT.md"
+    }
+  ]
+}

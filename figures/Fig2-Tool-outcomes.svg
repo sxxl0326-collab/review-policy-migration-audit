@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="478.2pt" height="151pt" viewBox="0 0 478.2 151" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-12T22:35:16.196031</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 151 
+L 478.2 151 
+L 478.2 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 5 3 
+L 10 3 
+Q 11 3 11 4 
+L 11 9 
+Q 11 10 10 10 
+L 5 10 
+Q 4 10 4 9 
+L 4 4 
+Q 4 3 5 3 
+z
+" clip-path="url(#pcf0ca704dd)" style="fill: #b54959"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 7.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #192f3f" x="15" y="9.258164" transform="rotate(-0 15 9.258164)">Owner omitted</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 111 3 
+L 116 3 
+Q 117 3 117 4 
+L 117 9 
+Q 117 10 116 10 
+L 111 10 
+Q 110 10 110 9 
+L 110 4 
+Q 110 3 111 3 
+z
+" clip-path="url(#pcf0ca704dd)" style="fill: #147d79"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 7.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #192f3f" x="121" y="9.255758" transform="rotate(-0 121 9.255758)">Converted without owner omission</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 298 3 
+L 303 3 
+Q 304 3 304 4 
+L 304 9 
+Q 304 10 303 10 
+L 298 10 
+Q 297 10 297 9 
+L 297 4 
+Q 297 3 298 3 
+z
+" clip-path="url(#pcf0ca704dd)" style="fill: #cbd5dc"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 7.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #192f3f" x="308" y="9.210641" transform="rotate(-0 308 9.210641)">No conversion</text>
+   </g>
+   <g id="line2d_1">
+    <path d="M 58 136 
+L 292 136 
+" clip-path="url(#pcf0ca704dd)" style="fill: none; stroke: #456070; stroke-width: 0.55; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 58 136 
+L 58 139 
+" clip-path="url(#pcf0ca704dd)" style="fill: none; stroke: #456070; stroke-width: 0.55; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #456070" x="58" y="147.437641" transform="rotate(-0 58 147.437641)">0</text>
+   </g>
+   <g id="line2d_3">
+    <path d="M 103 136 
+L 103 139 
+" clip-path="url(#pcf0ca704dd)" style="fill: none; stroke: #456070; stroke-width: 0.55; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #456070" x="103" y="147.393977" transform="rotate(-0 103 147.393977)">5</text>
+   </g>
+   <g id="line2d_4">
+    <path d="M 148 136 
+L 148 139 
+" clip-path="url(#pcf0ca704dd)" style="fill: none; stroke: #456070; stroke-width: 0.55; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #456070" x="148" y="147.437641" transform="rotate(-0 148 147.437641)">10</text>
+   </g>
+   <g id="line2d_5">
+    <path d="M 193 136 
+L 193 139 
+" clip-path="url(#pcf0ca704dd)" style="fill: none; stroke: #456070; stroke-width: 0.55; stroke-linecap: round"/>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #456070" x="193" y="147.437641" transform="rotate(-0 193 147.437641)">15</text>
+   </g>
+   <g id="line2d_6">
+    <path d="M 238 136 
+L 238 139 
+" clip-path="url(#pcf0ca704dd)" style="fill: none; stroke: #456070; stroke-width: 0.55; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #456070" x="238" y="147.437641" transform="rotate(-0 238 147.437641)">20</text>
+   </g>
+   <g id="line2d_7">
+    <path d="M 274 136 
+L 274 139 
+" clip-path="url(#pcf0ca704dd)" style="fill: none; stroke: #456070; stroke-width: 0.55; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #456070" x="274" y="147.479688" transform="rotate(-0 274 147.479688)">24</text>
+   </g>
+   <g id="line2d_8">
+    <path d="M 292 136 
+L 292 139 
+" clip-path="url(#pcf0ca704dd)" style="fill: none; stroke: #456070; stroke-width: 0.55; stroke-linecap: round"/>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 6.9px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #456070" x="292" y="147.437641" transform="rotate(-0 292 147.437641)">26</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #456070" x="303" y="146.861312" transform="rotate(-0 303 146.861312)">Repositories</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 4 17 
+L 474 17 
+Q 477 17 477 20 
+L 477 69 
+Q 477 72 474 72 
+L 4 72 
+Q 1 72 1 69 
+L 1 20 
+Q 1 17 4 17 
+z
+" clip-path="url(#p6570d7db26)" style="fill: #ebf3f7; stroke: #708b9b; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #19374a" x="7" y="27.1735" transform="rotate(-0 7 27.1735)">(a)  All exposed inputs · 26 repositories</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 7.65px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #19374a" x="6" y="43.737863" transform="rotate(-0 6 43.737863)">Official</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 58 34.7 
+L 103 34.7 
+Q 103 34.7 103 34.7 
+L 103 47.3 
+Q 103 47.3 103 47.3 
+L 58 47.3 
+Q 58 47.3 58 47.3 
+L 58 34.7 
+Q 58 34.7 58 34.7 
+z
+" clip-path="url(#p6570d7db26)" style="fill: #b54959"/>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="80.5" y="43.914406" transform="rotate(-0 80.5 43.914406)">5</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 103 34.7 
+L 274 34.7 
+Q 274 34.7 274 34.7 
+L 274 47.3 
+Q 274 47.3 274 47.3 
+L 103 47.3 
+Q 103 47.3 103 47.3 
+L 103 34.7 
+Q 103 34.7 103 34.7 
+z
+" clip-path="url(#p6570d7db26)" style="fill: #147d79"/>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="188.5" y="43.965594" transform="rotate(-0 188.5 43.965594)">19</text>
+   </g>
+   <g id="patch_8">
+    <path d="M 274 34.7 
+L 292 34.7 
+Q 292 34.7 292 34.7 
+L 292 47.3 
+Q 292 47.3 292 47.3 
+L 274 47.3 
+Q 274 47.3 274 47.3 
+L 274 34.7 
+Q 274 34.7 274 34.7 
+z
+" clip-path="url(#p6570d7db26)" style="fill: #cbd5dc"/>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #192f3f" x="283" y="44.01875" transform="rotate(-0 283 44.01875)">2</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 7.65px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #19374a" x="6" y="62.029641" transform="rotate(-0 6 62.029641)">OpenRewrite</text>
+   </g>
+   <g id="patch_9">
+    <path d="M 58 53.7 
+L 121 53.7 
+Q 121 53.7 121 53.7 
+L 121 66.3 
+Q 121 66.3 121 66.3 
+L 58 66.3 
+Q 58 66.3 58 66.3 
+L 58 53.7 
+Q 58 53.7 58 53.7 
+z
+" clip-path="url(#p6570d7db26)" style="fill: #b54959"/>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="89.5" y="62.965594" transform="rotate(-0 89.5 62.965594)">7</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 121 53.7 
+L 292 53.7 
+Q 292 53.7 292 53.7 
+L 292 66.3 
+Q 292 66.3 292 66.3 
+L 121 66.3 
+Q 121 66.3 121 66.3 
+L 121 53.7 
+Q 121 53.7 121 53.7 
+z
+" clip-path="url(#p6570d7db26)" style="fill: #147d79"/>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="206.5" y="62.965594" transform="rotate(-0 206.5 62.965594)">19</text>
+   </g>
+   <g id="patch_11">
+    <path d="M 302 20 
+L 469 20 
+Q 472 20 472 23 
+L 472 66 
+Q 472 69 469 69 
+L 302 69 
+Q 299 69 299 66 
+L 299 23 
+Q 299 20 302 20 
+z
+" clip-path="url(#p6570d7db26)" style="fill: #ffffff; stroke: #708b9b; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 307 29 
+L 346 29 
+L 355 37 
+L 355 62 
+L 307 62 
+z
+" clip-path="url(#p6570d7db26)" style="fill: #d4dfe3"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 305 27 
+L 345 27 
+L 353 35 
+L 353 60 
+L 305 60 
+z
+" clip-path="url(#p6570d7db26)" style="fill: #ffffff; stroke: #5b798d; stroke-width: 0.75"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 345 27 
+L 345 35 
+L 353 35 
+z
+" clip-path="url(#p6570d7db26)" style="fill: #ddebf1; stroke: #5b798d; stroke-width: 0.65"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 311 34 
+L 311 53 
+L 315 53 
+" clip-path="url(#p6570d7db26)" style="fill: none; stroke: #5b798d; stroke-width: 0.65; stroke-linecap: round"/>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Consolas'; text-anchor: start; fill: #147d79" x="316" y="38.745438" transform="rotate(-0 316 38.745438)">.yaml</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 7.2px; font-family: 'Consolas'; text-anchor: start; fill: #456070" x="316" y="53.75275" transform="rotate(-0 316 53.75275)">.yml</text>
+   </g>
+   <g id="patch_15">
+    <path d="M 343 33.5 
+C 343.928211 33.5 344.81853 33.868782 345.474874 34.525126 
+C 346.131218 35.18147 346.5 36.071789 346.5 37 
+C 346.5 37.928211 346.131218 38.81853 345.474874 39.474874 
+C 344.81853 40.131218 343.928211 40.5 343 40.5 
+C 342.071789 40.5 341.18147 40.131218 340.525126 39.474874 
+C 339.868782 38.81853 339.5 37.928211 339.5 37 
+C 339.5 36.071789 339.868782 35.18147 340.525126 34.525126 
+C 341.18147 33.868782 342.071789 33.5 343 33.5 
+z
+" clip-path="url(#p6570d7db26)" style="fill: #147d79"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 341.215 37 
+L 342.545 38.225 
+L 344.89 35.6 
+" clip-path="url(#p6570d7db26)" style="fill: none; stroke: #ffffff; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 341 50 
+L 345 54 
+" clip-path="url(#p6570d7db26)" style="fill: none; stroke: #b54959; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_12">
+    <path d="M 345 50 
+L 341 54 
+" clip-path="url(#p6570d7db26)" style="fill: none; stroke: #b54959; stroke-width: 0.85; stroke-linecap: round"/>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 700; font-size: 7.7px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #19374a" x="360" y="34.042906" transform="rotate(-0 360 34.042906)">Official no-ops · H10, H11</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 7.1px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #456070" x="360" y="46.839344" transform="rotate(-0 360 46.839344)">Only .yaml was present.</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 7.1px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #456070" x="360" y="58.793859" transform="rotate(-0 360 58.793859)">Required .yml input absent.</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_16">
+    <path d="M 4 78 
+L 474 78 
+Q 477 78 477 81 
+L 477 130 
+Q 477 133 474 133 
+L 4 133 
+Q 1 133 1 130 
+L 1 81 
+Q 1 78 4 78 
+z
+" clip-path="url(#p384a5dcf4e)" style="fill: #ebf3f7; stroke: #708b9b; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #19374a" x="7" y="88.1735" transform="rotate(-0 7 88.1735)">(b)  Common filename-covered inputs · 24 repositories</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 700; font-size: 7.65px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #19374a" x="6" y="104.737863" transform="rotate(-0 6 104.737863)">Official</text>
+   </g>
+   <g id="patch_17">
+    <path d="M 58 95.7 
+L 103 95.7 
+Q 103 95.7 103 95.7 
+L 103 108.3 
+Q 103 108.3 103 108.3 
+L 58 108.3 
+Q 58 108.3 58 108.3 
+L 58 95.7 
+Q 58 95.7 58 95.7 
+z
+" clip-path="url(#p384a5dcf4e)" style="fill: #b54959"/>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="80.5" y="104.914406" transform="rotate(-0 80.5 104.914406)">5</text>
+   </g>
+   <g id="patch_18">
+    <path d="M 103 95.7 
+L 274 95.7 
+Q 274 95.7 274 95.7 
+L 274 108.3 
+Q 274 108.3 274 108.3 
+L 103 108.3 
+Q 103 108.3 103 108.3 
+L 103 95.7 
+Q 103 95.7 103 95.7 
+z
+" clip-path="url(#p384a5dcf4e)" style="fill: #147d79"/>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="188.5" y="104.965594" transform="rotate(-0 188.5 104.965594)">19</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 700; font-size: 7.65px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #19374a" x="6" y="123.029641" transform="rotate(-0 6 123.029641)">OpenRewrite</text>
+   </g>
+   <g id="patch_19">
+    <path d="M 58 114.7 
+L 103 114.7 
+Q 103 114.7 103 114.7 
+L 103 127.3 
+Q 103 127.3 103 127.3 
+L 58 127.3 
+Q 58 127.3 58 127.3 
+L 58 114.7 
+Q 58 114.7 58 114.7 
+z
+" clip-path="url(#p384a5dcf4e)" style="fill: #b54959"/>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="80.5" y="123.914406" transform="rotate(-0 80.5 123.914406)">5</text>
+   </g>
+   <g id="patch_20">
+    <path d="M 103 114.7 
+L 274 114.7 
+Q 274 114.7 274 114.7 
+L 274 127.3 
+Q 274 127.3 274 127.3 
+L 103 127.3 
+Q 103 127.3 103 127.3 
+L 103 114.7 
+Q 103 114.7 103 114.7 
+z
+" clip-path="url(#p384a5dcf4e)" style="fill: #147d79"/>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 700; font-size: 8.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="188.5" y="123.965594" transform="rotate(-0 188.5 123.965594)">19</text>
+   </g>
+   <g id="patch_21">
+    <path d="M 302 81 
+L 469 81 
+Q 472 81 472 84 
+L 472 127 
+Q 472 130 469 130 
+L 302 130 
+Q 299 130 299 127 
+L 299 84 
+Q 299 81 302 81 
+z
+" clip-path="url(#p384a5dcf4e)" style="fill: #ffffff; stroke: #708b9b; stroke-width: 0.65; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 700; font-size: 6.85px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #19374a" x="343" y="89.817391" transform="rotate(-0 343 89.817391)">OpenRewrite</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 6.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #456070" x="334" y="100.220859" transform="rotate(-0 334 100.220859)">Omit</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 6.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #456070" x="353" y="99.602797" transform="rotate(-0 353 99.602797)">Keep</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 6.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #456070" x="307" y="109.2925" transform="rotate(-0 307 109.2925)">Omit</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 6.4px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #456070" x="307" y="121.6545" transform="rotate(-0 307 121.6545)">Keep</text>
+   </g>
+   <g id="patch_22">
+    <path d="M 327 102 
+L 341 102 
+Q 342 102 342 103 
+L 342 111 
+Q 342 112 341 112 
+L 327 112 
+Q 326 112 326 111 
+L 326 103 
+Q 326 102 327 102 
+z
+" clip-path="url(#p384a5dcf4e)" style="fill: #fae5e8; stroke: #b5c8d0; stroke-width: 0.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #19374a" x="334" y="109.498063" transform="rotate(-0 334 109.498063)">5</text>
+   </g>
+   <g id="patch_23">
+    <path d="M 345 102 
+L 359 102 
+Q 360 102 360 103 
+L 360 111 
+Q 360 112 359 112 
+L 345 112 
+Q 344 112 344 111 
+L 344 103 
+Q 344 102 345 102 
+z
+" clip-path="url(#p384a5dcf4e)" style="fill: #f4f8fa; stroke: #b5c8d0; stroke-width: 0.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #19374a" x="352" y="109.543625" transform="rotate(-0 352 109.543625)">0</text>
+   </g>
+   <g id="patch_24">
+    <path d="M 327 114 
+L 341 114 
+Q 342 114 342 115 
+L 342 123 
+Q 342 124 341 124 
+L 327 124 
+Q 326 124 326 123 
+L 326 115 
+Q 326 114 327 114 
+z
+" clip-path="url(#p384a5dcf4e)" style="fill: #f4f8fa; stroke: #b5c8d0; stroke-width: 0.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #19374a" x="334" y="121.543625" transform="rotate(-0 334 121.543625)">0</text>
+   </g>
+   <g id="patch_25">
+    <path d="M 345 114 
+L 359 114 
+Q 360 114 360 115 
+L 360 123 
+Q 360 124 359 124 
+L 345 124 
+Q 344 124 344 123 
+L 344 115 
+Q 344 114 345 114 
+z
+" clip-path="url(#p384a5dcf4e)" style="fill: #dbf1eb; stroke: #b5c8d0; stroke-width: 0.45; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 700; font-size: 7.2px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #19374a" x="352" y="121.541938" transform="rotate(-0 352 121.541938)">19</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 6.8px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #456070" x="366" y="91.435781" transform="rotate(-0 366 91.435781)">Rows: Official</text>
+   </g>
+   <g id="text_42">
+    <text style="font-weight: 700; font-size: 7.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #19374a" x="366" y="102.955273" transform="rotate(-0 366 102.955273)">0 discordant pairs</text>
+   </g>
+   <g id="text_43">
+    <text style="font-weight: 700; font-size: 7.1px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #b54959" x="366" y="113.837125" transform="rotate(-0 366 113.837125)">Both omit · 5/24 (20.8%)</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 6.95px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #456070" x="366" y="125.43793" transform="rotate(-0 366 125.43793)">Wilson 95% CI  9.2–40.5%</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcf0ca704dd">
+   <rect x="0" y="0" width="478.2" height="151"/>
+  </clipPath>
+  <clipPath id="p6570d7db26">
+   <rect x="0" y="16" width="478.2" height="57"/>
+  </clipPath>
+  <clipPath id="p384a5dcf4e">
+   <rect x="0" y="77" width="478.2" height="57"/>
+  </clipPath>
+ </defs>
+</svg>

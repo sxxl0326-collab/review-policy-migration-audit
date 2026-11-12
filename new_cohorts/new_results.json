@@ -1,0 +1,41 @@
+{
+  "B": {
+    "n": 25,
+    "raw": 7,
+    "adjusted": 2,
+    "request": 9,
+    "overlap": 2,
+    "repos": 9,
+    "selected_repos": 12,
+    "equal_repo_drop_points": 18.51851851851852,
+    "leave_one_repo_out_drop_points": [
+      9.090909090909092,
+      22.727272727272727
+    ],
+    "same_base_policy_text": 25
+  },
+  "A": [
+    {
+      "stratum": "later",
+      "screened": 12,
+      "paired": 3,
+      "exposed": 2,
+      "loss": 0,
+      "contexts": 103,
+      "unknown": 0
+    },
+    {
+      "stratum": "archive",
+      "screened": 40,
+      "paired": 10,
+      "exposed": 0,
+      "loss": 0,
+      "contexts": 94,
+      "unknown": 1
+    }
+  ],
+  "distinct_new_replay_ids": 13,
+  "archived_ids_checked": 174,
+  "execution_count": 13,
+  "prior_prs": 19
+}

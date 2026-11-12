@@ -1,0 +1,7 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/npm-shrinkwrap.json @knocklabs/product
+/package-lock.json @knocklabs/product
+/package.json @knocklabs/product
+/pnpm-lock.yaml @knocklabs/product
+/yarn.lock @knocklabs/product

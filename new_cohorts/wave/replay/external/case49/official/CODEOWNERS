@@ -1,0 +1,7 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/build.gradle @unhappychoice
+/build.gradle.kts @unhappychoice
+/gradle.properties @unhappychoice
+/settings.gradle @unhappychoice
+/settings.gradle.kts @unhappychoice

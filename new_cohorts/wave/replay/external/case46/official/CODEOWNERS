@@ -1,0 +1,8 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/action.yaml @johnboyes
+/action.yml @johnboyes
+/.github/workflows/*.yaml @johnboyes
+/.github/workflows/*.yml @johnboyes
+/**/.github/workflows/*.yaml @johnboyes
+/**/.github/workflows/*.yml @johnboyes

@@ -1,0 +1,18 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/*.dockerfile @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/action.yaml @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/action.yml @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/Dockerfile @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/clamav/Dockerfile @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/Dockerfile.* @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/clamav/*.dockerfile @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/clamav/Dockerfile.* @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/.github/workflows/*.yaml @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/.github/workflows/*.yml @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/**/*.dockerfile @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/**/Dockerfile.* @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/clamav/**/*.dockerfile @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/clamav/**/Dockerfile.* @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/**/.github/workflows/*.yaml @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole
+/**/.github/workflows/*.yml @dirgim @hongweiliu17 @jsztuka @Josh-Everett @kasemAlem @sonam1412 @14rcole

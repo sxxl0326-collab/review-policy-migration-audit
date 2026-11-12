@@ -1,0 +1,12 @@
+# These owners will be the default owners for everything in the repo.
+# Unless a later match takes precedence,
+# these owners will be requested for review when someone opens a pull request.
+* @DenBond7 @ioanmo226
+
+# The following files will no have codeowners to allow dependabot auto-merge
+# based on https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features
+# /customizing-your-repository/about-code-owners#codeowners-syntax
+# If you specify a user or team that doesn't exist or has insufficient access, a code owner will not be assigned.
+# But these files will be skipped and not assigned to anyone.
+FlowCrypt/build.gradle.kts not_existed_user@flowcrypt.com
+build.gradle.kts not_existed_user@flowcrypt.com

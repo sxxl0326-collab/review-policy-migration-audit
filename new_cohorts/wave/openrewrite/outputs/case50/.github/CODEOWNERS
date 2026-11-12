@@ -1,0 +1,6 @@
+# Reviewers migrated from the Dependabot configuration
+/Docker/api/Dockerfile @P-manBrown
+/Docker/db/Dockerfile @P-manBrown
+/Docker/web/Dockerfile @P-manBrown
+/Gemfile @P-manBrown
+/Gemfile.lock @P-manBrown

@@ -1,0 +1,4 @@
+# Reviewers migrated from the Dependabot configuration
+/go.mod @pacificporter/developers
+/go.sum @pacificporter/developers
+/.github/workflows/ @pacificporter/developers

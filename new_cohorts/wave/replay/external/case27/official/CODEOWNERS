@@ -1,0 +1,18 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/src/build.gradle @nordic-institute/xrd-developers
+/src/build.gradle.kts @nordic-institute/xrd-developers
+/src/gradle.properties @nordic-institute/xrd-developers
+/src/npm-shrinkwrap.json @nordic-institute/xrd-developers
+/src/package-lock.json @nordic-institute/xrd-developers
+/src/package.json @nordic-institute/xrd-developers
+/src/pnpm-lock.yaml @nordic-institute/xrd-developers
+/src/settings.gradle @nordic-institute/xrd-developers
+/src/settings.gradle.kts @nordic-institute/xrd-developers
+/src/yarn.lock @nordic-institute/xrd-developers
+/.github/workflows/action.yaml @nordic-institute/xrd-developers
+/.github/workflows/action.yml @nordic-institute/xrd-developers
+/.github/workflows/.github/workflows/*.yaml @nordic-institute/xrd-developers
+/.github/workflows/.github/workflows/*.yml @nordic-institute/xrd-developers
+/.github/workflows/**/.github/workflows/*.yaml @nordic-institute/xrd-developers
+/.github/workflows/**/.github/workflows/*.yml @nordic-institute/xrd-developers

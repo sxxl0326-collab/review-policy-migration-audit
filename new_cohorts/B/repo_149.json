@@ -1,0 +1,139 @@
+{
+  "repo": "MasWag/FalCAuN",
+  "index": 149,
+  "start": "2025-06-26T03:45:19+00:00",
+  "end": "2025-09-24T03:45:19+00:00",
+  "branch": "master",
+  "migration": "https://github.com/MasWag/FalCAuN/pull/280",
+  "selected": [
+    "https://github.com/MasWag/FalCAuN/pull/285",
+    "https://github.com/MasWag/FalCAuN/pull/293",
+    "https://github.com/MasWag/FalCAuN/pull/298"
+  ],
+  "records": [
+    {
+      "url": "https://github.com/MasWag/FalCAuN/pull/285",
+      "author": "MasWag",
+      "old": [],
+      "new": [
+        "@MasWag"
+      ],
+      "raw": [
+        "@MasWag"
+      ],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          ".circleci/config.yml"
+        ]
+      ],
+      "base": "d4c28164a8e97ed77a373bc4a446066d85be19ee",
+      "requests": []
+    },
+    {
+      "url": "https://github.com/MasWag/FalCAuN/pull/293",
+      "author": "taiseiKMC",
+      "old": [],
+      "new": [
+        "@MasWag"
+      ],
+      "raw": [
+        "@MasWag"
+      ],
+      "adjusted": [
+        "@MasWag"
+      ],
+      "paths": [
+        [
+          null,
+          "core/src/main/java/net/maswag/falcaun/NumericSULMapper.java"
+        ],
+        [
+          null,
+          "core/src/test/java/net/maswag/falcaun/NumericSULMapperOutputTest.java"
+        ]
+      ],
+      "base": "dd36a3e62f3f4b9c059c3c4e3e5691af174577cb",
+      "requests": [
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "MasWag"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "Copilot"
+          },
+          "requested_team": null
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/MasWag/FalCAuN/pull/298",
+      "author": "MasWag",
+      "old": [],
+      "new": [
+        "@MasWag"
+      ],
+      "raw": [
+        "@MasWag"
+      ],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          ".github/workflows/junit.yml"
+        ],
+        [
+          null,
+          "core/src/main/java/net/maswag/falcaun/TemporalRelease.java"
+        ],
+        [
+          null,
+          "core/src/main/java/net/maswag/falcaun/TemporalUntil.java"
+        ],
+        [
+          null,
+          "core/src/test/java/net/maswag/falcaun/IOSignalGenerator.java"
+        ],
+        [
+          null,
+          "core/src/test/java/net/maswag/falcaun/STLReleaseTest.java"
+        ],
+        [
+          null,
+          "core/src/test/java/net/maswag/falcaun/STLUntilTest.java"
+        ]
+      ],
+      "base": "4902d5dd2e2eca3c53a9acdc276c0784c133e99a",
+      "requests": [
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "Copilot"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "Copilot"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "Copilot"
+          },
+          "requested_team": null
+        }
+      ]
+    }
+  ],
+  "query": "repo:MasWag/FalCAuN is:pr is:merged base:master created:>2025-06-26T03:45:19Z merged:<=2025-09-24T03:45:19Z"
+}

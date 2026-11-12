@@ -1,0 +1,212 @@
+{
+  "repo": "lantanagroup/link-cloud",
+  "index": 134,
+  "start": "2025-05-29T05:02:42+00:00",
+  "end": "2025-08-27T05:02:42+00:00",
+  "branch": "dev",
+  "migration": "https://github.com/lantanagroup/link-cloud/pull/854",
+  "selected": [
+    "https://github.com/lantanagroup/link-cloud/pull/863",
+    "https://github.com/lantanagroup/link-cloud/pull/864",
+    "https://github.com/lantanagroup/link-cloud/pull/866"
+  ],
+  "records": [
+    {
+      "url": "https://github.com/lantanagroup/link-cloud/pull/863",
+      "author": "seanmcilvenna",
+      "old": [
+        "@lantanagroup/devops"
+      ],
+      "new": [
+        "@lantanagroup/devops"
+      ],
+      "raw": [],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "README.md"
+        ],
+        [
+          null,
+          "docs/README.md"
+        ],
+        [
+          null,
+          "docs/functionality/artifact-management.md"
+        ],
+        [
+          null,
+          "docs/functionality/persistence.md"
+        ]
+      ],
+      "base": "ee4c1cb9a3a676560215d8c743f4b089aa495cdc",
+      "requests": [
+        {
+          "event": "review_requested",
+          "requested_reviewer": null,
+          "requested_team": {
+            "slug": "devops"
+          }
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "amphillipsLGC"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "dvargaslantana"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "xordroyd"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "xordroyd"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "smailliwcs"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "smailliwcs"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "xordroyd"
+          },
+          "requested_team": null
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/lantanagroup/link-cloud/pull/864",
+      "author": "arianamihailescu",
+      "old": [],
+      "new": [],
+      "raw": [],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "Web/Admin.UI/src/app/components/measure-def/measure-def-config-form/measure-def-config-form.component.html"
+        ],
+        [
+          null,
+          "Web/Admin.UI/src/app/components/measure-def/measure-def-config-form/measure-def-config-form.component.scss"
+        ],
+        [
+          null,
+          "Web/Admin.UI/src/app/components/measure-def/measure-def-config-form/measure-def-config-form.component.ts"
+        ],
+        [
+          null,
+          "Web/Admin.UI/src/app/interfaces/measure-definition/measure-definition-config-model.interface.ts"
+        ]
+      ],
+      "base": "102059826f92a2f86d6f831f52efd182d1a027c2",
+      "requests": [
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "amphillipsLGC"
+          },
+          "requested_team": null
+        }
+      ]
+    },
+    {
+      "url": "https://github.com/lantanagroup/link-cloud/pull/866",
+      "author": "amphillipsLGC",
+      "old": [],
+      "new": [],
+      "raw": [],
+      "adjusted": [],
+      "paths": [
+        [
+          null,
+          "DotNet/Report/Controllers/ReportController.cs"
+        ],
+        [
+          null,
+          "DotNet/Shared/Application/Models/Responses/ReportScheduleSummaryModel.cs"
+        ],
+        [
+          null,
+          "Java/validation/src/main/java/com/lantanagroup/link/validation/controllers/ValidationController.java"
+        ],
+        [
+          null,
+          "Java/validation/src/main/java/com/lantanagroup/link/validation/entities/PreQualSummary.java"
+        ],
+        [
+          null,
+          "Java/validation/src/main/java/com/lantanagroup/link/validation/entities/Report.java"
+        ],
+        [
+          null,
+          "Java/validation/src/main/java/com/lantanagroup/link/validation/entities/ReportScheduleSummaryModel.java"
+        ],
+        [
+          null,
+          "Java/validation/src/main/java/com/lantanagroup/link/validation/services/PreQualService.java"
+        ],
+        [
+          null,
+          "Java/validation/src/main/java/com/lantanagroup/link/validation/services/ReportClient.java"
+        ],
+        [
+          null,
+          "Java/validation/src/main/resources/application.yml"
+        ],
+        [
+          null,
+          "Java/validation/src/main/resources/pre-qual.html"
+        ],
+        [
+          null,
+          "Java/validation/src/main/resources/simple-pre-qual.html"
+        ]
+      ],
+      "base": "3a00c6b7f59b6ee43427f935025bdca4b77b781f",
+      "requests": [
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "smailliwcs"
+          },
+          "requested_team": null
+        },
+        {
+          "event": "review_requested",
+          "requested_reviewer": {
+            "login": "arianamihailescu"
+          },
+          "requested_team": null
+        }
+      ]
+    }
+  ],
+  "query": "repo:lantanagroup/link-cloud is:pr is:merged base:dev created:>2025-05-29T05:02:42Z merged:<=2025-08-27T05:02:42Z"
+}

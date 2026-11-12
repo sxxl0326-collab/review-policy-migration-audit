@@ -1,0 +1,459 @@
+[
+  {
+    "index": 1,
+    "repo": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr/pull/16314",
+    "raw_added": false,
+    "adjusted_added": false,
+    "public_request": true,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [
+      "@cyqsimon"
+    ],
+    "new_union": [
+      "@cyqsimon"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      "pages/linux/locale-gen.md",
+      "pages/linux/localedef.md"
+    ]
+  },
+  {
+    "index": 2,
+    "repo": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr/pull/16315",
+    "raw_added": false,
+    "adjusted_added": false,
+    "public_request": true,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [
+      "@CodePsy-2001",
+      "@IMHOJEONG",
+      "@Zamoca42",
+      "@blueskyson",
+      "@einverne",
+      "@gutjuri",
+      "@ikks",
+      "@kant",
+      "@pixelcmtd",
+      "@reinhart1010",
+      "@tricantivu"
+    ],
+    "new_union": [
+      "@CodePsy-2001",
+      "@IMHOJEONG",
+      "@Zamoca42",
+      "@blueskyson",
+      "@einverne",
+      "@gutjuri",
+      "@ikks",
+      "@kant",
+      "@pixelcmtd",
+      "@reinhart1010",
+      "@tricantivu"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      "pages.de/osx/pbpaste.md",
+      "pages.es/osx/pbpaste.md",
+      "pages.id/osx/pbpaste.md",
+      "pages.ko/osx/pbpaste.md",
+      "pages.th/osx/pbpaste.md",
+      "pages.zh/osx/pbpaste.md",
+      "pages/osx/pbpaste.md"
+    ]
+  },
+  {
+    "index": 3,
+    "repo": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr/pull/16316",
+    "raw_added": false,
+    "adjusted_added": false,
+    "public_request": true,
+    "request_overlap": false,
+    "rename": true,
+    "old_union": [
+      "@CodePsy-2001",
+      "@IMHOJEONG",
+      "@Waples",
+      "@Zamoca42",
+      "@leonvsc",
+      "@sebastiaanspeck"
+    ],
+    "new_union": [
+      "@CodePsy-2001",
+      "@IMHOJEONG",
+      "@Waples",
+      "@Zamoca42",
+      "@leonvsc",
+      "@sebastiaanspeck"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      "pages.ko/common/pio-pkg.md",
+      "pages.nl/common/pio-pkg.md"
+    ]
+  },
+  {
+    "index": 4,
+    "repo": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr/pull/16317",
+    "raw_added": false,
+    "adjusted_added": false,
+    "public_request": true,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [
+      "@Waples",
+      "@leonvsc",
+      "@sebastiaanspeck"
+    ],
+    "new_union": [
+      "@Waples",
+      "@leonvsc",
+      "@sebastiaanspeck"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      "pages.nl/common/musescore.md"
+    ]
+  },
+  {
+    "index": 5,
+    "repo": "tldr-pages/tldr",
+    "url": "https://github.com/tldr-pages/tldr/pull/16318",
+    "raw_added": false,
+    "adjusted_added": false,
+    "public_request": true,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [
+      "@Waples",
+      "@leonvsc",
+      "@sebastiaanspeck"
+    ],
+    "new_union": [
+      "@Waples",
+      "@leonvsc",
+      "@sebastiaanspeck"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      "pages.nl/common/impacket-mqtt_check.md",
+      "pages.nl/common/j.md",
+      "pages.nl/common/jco.md",
+      "pages.nl/common/jo.md",
+      "pages.nl/common/netexec.md",
+      "pages.nl/linux/lrunzip.md",
+      "pages.nl/linux/lrzuntar.md"
+    ]
+  },
+  {
+    "index": 6,
+    "repo": "masutaka/github-nippou",
+    "url": "https://github.com/masutaka/github-nippou/pull/258",
+    "raw_added": true,
+    "adjusted_added": false,
+    "public_request": false,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [],
+    "new_union": [
+      "@masutaka"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      "go.mod"
+    ]
+  },
+  {
+    "index": 7,
+    "repo": "marshmallow-insurance/smores-react",
+    "url": "https://github.com/marshmallow-insurance/smores-react/pull/4538",
+    "raw_added": false,
+    "adjusted_added": false,
+    "public_request": true,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [
+      "@marshmallow-insurance/frontend"
+    ],
+    "new_union": [
+      "@marshmallow-insurance/frontend"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      "src/Icon/iconFiles/MailTime.tsx",
+      "src/Icon/iconsList.ts"
+    ]
+  },
+  {
+    "index": 8,
+    "repo": "marshmallow-insurance/smores-react",
+    "url": "https://github.com/marshmallow-insurance/smores-react/pull/4539",
+    "raw_added": false,
+    "adjusted_added": false,
+    "public_request": true,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [
+      "@marshmallow-insurance/frontend"
+    ],
+    "new_union": [
+      "@marshmallow-insurance/frontend"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      ".github/workflows/bump_and_publish.yml",
+      ".github/workflows/preview_bump_and_publish.yml"
+    ]
+  },
+  {
+    "index": 9,
+    "repo": "marshmallow-insurance/smores-react",
+    "url": "https://github.com/marshmallow-insurance/smores-react/pull/4540",
+    "raw_added": false,
+    "adjusted_added": false,
+    "public_request": true,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [
+      "@marshmallow-insurance/frontend"
+    ],
+    "new_union": [
+      "@marshmallow-insurance/frontend"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      "src/TextDateOfBirthInput/TextDateOfBirthInput.tsx",
+      "src/TextDateOfBirthInput/storybook/TextDateOfBirthInput.stories.tsx"
+    ]
+  },
+  {
+    "index": 10,
+    "repo": "marshmallow-insurance/smores-react",
+    "url": "https://github.com/marshmallow-insurance/smores-react/pull/4541",
+    "raw_added": false,
+    "adjusted_added": false,
+    "public_request": true,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [
+      "@marshmallow-insurance/frontend"
+    ],
+    "new_union": [
+      "@marshmallow-insurance/frontend"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      "src/Table/Table.tsx",
+      "src/Table/storybook/Table.stories.tsx",
+      "src/Table/types.ts"
+    ]
+  },
+  {
+    "index": 11,
+    "repo": "blackwhitehere/acme-portal",
+    "url": "https://github.com/blackwhitehere/acme-portal/pull/58",
+    "raw_added": true,
+    "adjusted_added": false,
+    "public_request": false,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [],
+    "new_union": [
+      "@blackwhitehere"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      "src/utils/pythonScriptExecutor.ts"
+    ]
+  },
+  {
+    "index": 12,
+    "repo": "ricog/vite-pwa-test",
+    "url": "https://github.com/ricog/vite-pwa-test/pull/29",
+    "raw_added": true,
+    "adjusted_added": false,
+    "public_request": false,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [],
+    "new_union": [
+      "@ricog"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      ".github/workflows/deploy-cloudflare.yml"
+    ]
+  },
+  {
+    "index": 13,
+    "repo": "ricog/vite-pwa-test",
+    "url": "https://github.com/ricog/vite-pwa-test/pull/30",
+    "raw_added": true,
+    "adjusted_added": false,
+    "public_request": false,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [],
+    "new_union": [
+      "@ricog"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      ".github/workflows/semgrep.yml",
+      ".gitignore",
+      "package.json"
+    ]
+  },
+  {
+    "index": 14,
+    "repo": "ricog/vite-pwa-test",
+    "url": "https://github.com/ricog/vite-pwa-test/pull/31",
+    "raw_added": true,
+    "adjusted_added": false,
+    "public_request": false,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [],
+    "new_union": [
+      "@ricog"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      "postcss.config.js",
+      "src/index.css"
+    ]
+  },
+  {
+    "index": 15,
+    "repo": "ricog/vite-pwa-test",
+    "url": "https://github.com/ricog/vite-pwa-test/pull/32",
+    "raw_added": true,
+    "adjusted_added": false,
+    "public_request": false,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [],
+    "new_union": [
+      "@ricog"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      ".github/workflows/deploy-cloudflare.yml"
+    ]
+  },
+  {
+    "index": 16,
+    "repo": "ricog/vite-pwa-test",
+    "url": "https://github.com/ricog/vite-pwa-test/pull/33",
+    "raw_added": true,
+    "adjusted_added": false,
+    "public_request": false,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [],
+    "new_union": [
+      "@ricog"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      ".github/workflows/deploy-cloudflare.yml"
+    ]
+  },
+  {
+    "index": 17,
+    "repo": "hiro0218/mokuji.js",
+    "url": "https://github.com/hiro0218/mokuji.js/pull/432",
+    "raw_added": true,
+    "adjusted_added": false,
+    "public_request": true,
+    "request_overlap": false,
+    "rename": true,
+    "old_union": [],
+    "new_union": [
+      "@hiro0218"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      ".github/copilot-instructions.md",
+      ".gitignore",
+      "CLAUDE.md",
+      "README.md",
+      "__sandbox__/src/App.tsx",
+      "__sandbox__/vite.config.mjs",
+      "package-lock.json",
+      "package.json",
+      "src/anchor.test.ts",
+      "src/anchor.ts",
+      "src/anchor/anchor.ts",
+      "src/common/constants.ts",
+      "src/common/dom.ts",
+      "src/common/types.ts",
+      "src/heading.test.ts",
+      "src/heading.ts",
+      "src/heading/heading.ts",
+      "src/heading/text.ts",
+      "src/index.test.ts",
+      "src/index.ts",
+      "src/mokuji-core.test.ts",
+      "src/mokuji-core.ts",
+      "src/toc/core.ts",
+      "src/types.ts",
+      "src/utils/constants.test.ts",
+      "src/utils/constants.ts",
+      "src/utils/dom.test.ts",
+      "src/utils/dom.ts",
+      "tests/index.test.ts",
+      "tsdown.config.ts",
+      "vitest.config.mjs",
+      "vitest.config.ts"
+    ]
+  },
+  {
+    "index": 18,
+    "repo": "hiro0218/mokuji.js",
+    "url": "https://github.com/hiro0218/mokuji.js/pull/433",
+    "raw_added": true,
+    "adjusted_added": false,
+    "public_request": false,
+    "request_overlap": false,
+    "rename": false,
+    "old_union": [],
+    "new_union": [
+      "@hiro0218"
+    ],
+    "adjusted_identifiers": [],
+    "paths": [
+      ".node-version",
+      "package-lock.json",
+      "package.json"
+    ]
+  },
+  {
+    "index": 19,
+    "repo": "Automattic/media-explorer",
+    "url": "https://github.com/Automattic/media-explorer/pull/95",
+    "raw_added": true,
+    "adjusted_added": true,
+    "public_request": true,
+    "request_overlap": true,
+    "rename": false,
+    "old_union": [],
+    "new_union": [
+      "@Automattic/vip-plugins"
+    ],
+    "adjusted_identifiers": [
+      "@Automattic/vip-plugins"
+    ],
+    "paths": [
+      ".github/workflows/integration.yml",
+      "media-explorer.php",
+      "readme.txt"
+    ]
+  }
+]

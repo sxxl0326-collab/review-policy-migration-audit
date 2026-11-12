@@ -1,0 +1,21 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/*.gemspec @P-manBrown
+/Gemfile.lock @P-manBrown
+/Gemfile @P-manBrown
+/Docker/api/Dockerfile @P-manBrown
+/Docker/db/Dockerfile @P-manBrown
+/Docker/web/Dockerfile @P-manBrown
+/Docker/api/*.dockerfile @P-manBrown
+/Docker/api/Dockerfile.* @P-manBrown
+/Docker/db/*.dockerfile @P-manBrown
+/Docker/db/Dockerfile.* @P-manBrown
+/Docker/web/*.dockerfile @P-manBrown
+/Docker/web/Dockerfile.* @P-manBrown
+/**/*.gemspec @P-manBrown
+/Docker/api/**/*.dockerfile @P-manBrown
+/Docker/api/**/Dockerfile.* @P-manBrown
+/Docker/db/**/*.dockerfile @P-manBrown
+/Docker/db/**/Dockerfile.* @P-manBrown
+/Docker/web/**/*.dockerfile @P-manBrown
+/Docker/web/**/Dockerfile.* @P-manBrown

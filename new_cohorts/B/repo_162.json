@@ -1,0 +1,11 @@
+{
+  "repo": "climatepolicyradar/navigator-data-ingest",
+  "index": 162,
+  "start": "2025-07-24T09:26:06+00:00",
+  "end": "2025-10-22T09:26:06+00:00",
+  "branch": "main",
+  "migration": "https://github.com/climatepolicyradar/navigator-data-ingest/pull/149",
+  "selected": [],
+  "records": [],
+  "query": "repo:climatepolicyradar/navigator-data-ingest is:pr is:merged base:main created:>2025-07-24T09:26:06Z merged:<=2025-10-22T09:26:06Z"
+}

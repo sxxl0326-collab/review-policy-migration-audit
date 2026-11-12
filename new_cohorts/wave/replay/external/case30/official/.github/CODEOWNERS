@@ -1,0 +1,18 @@
+# Global owners - all files assigned to multiple owners to reduce bus factor risk
+# Specific entries can be added here in the future if exceptions are needed
+* @pablo @pablo-albaladejo
+
+# Critical areas with specific ownership
+/.github/ @pablo @pablo-albaladejo
+/docs/ @pablo @pablo-albaladejo
+/src/domain/ @pablo
+/src/adapters/ @pablo
+/.cursor/rules/ @pablo
+
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/npm-shrinkwrap.json @pablo-albaladejo
+/package-lock.json @pablo-albaladejo
+/package.json @pablo-albaladejo
+/pnpm-lock.yaml @pablo-albaladejo
+/yarn.lock @pablo-albaladejo

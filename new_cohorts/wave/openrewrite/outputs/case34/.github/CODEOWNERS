@@ -1,0 +1,5 @@
+# Reviewers migrated from the Dependabot configuration
+/package.json @knocklabs/product
+/package-lock.json @knocklabs/product
+/yarn.lock @knocklabs/product
+/pnpm-lock.yaml @knocklabs/product

@@ -1,0 +1,23 @@
+[
+  {
+    "source": "ReplaceDependabotReviewersWithCodeowners.java",
+    "url": "https://raw.githubusercontent.com/openrewrite/rewrite-github-actions/1433f25d6c59dc00a7cd47986651f22f9532ab7a/src/main/java/org/openrewrite/github/ReplaceDependabotReviewersWithCodeowners.java",
+    "sha256": "8949e52b1b1d810e0d8b0c5fe8e8cfe9607eb85681472df628f459984d199d49",
+    "unchanged": true,
+    "role": "main"
+  },
+  {
+    "source": "DependabotEcosystemManifests.java",
+    "url": "https://raw.githubusercontent.com/openrewrite/rewrite-github-actions/1433f25d6c59dc00a7cd47986651f22f9532ab7a/src/main/java/org/openrewrite/github/DependabotEcosystemManifests.java",
+    "sha256": "28de675638c895ee36180167fa3dc196fe9b7d4e731d5923cc0f67b21c78ee61",
+    "unchanged": true,
+    "role": "main"
+  },
+  {
+    "source": "ReplaceDependabotReviewersWithCodeownersTest.java",
+    "url": "https://raw.githubusercontent.com/openrewrite/rewrite-github-actions/1433f25d6c59dc00a7cd47986651f22f9532ab7a/src/test/java/org/openrewrite/github/ReplaceDependabotReviewersWithCodeownersTest.java",
+    "sha256": "76af922c4af482c90513537292f811c85bc63ed8fcad9e22555e74c32cd5a4c2",
+    "unchanged": true,
+    "role": "test"
+  }
+]

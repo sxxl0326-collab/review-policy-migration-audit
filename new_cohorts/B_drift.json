@@ -1,0 +1,226 @@
+[
+  {
+    "repo": "openedx/openedx-platform",
+    "pr": "https://github.com/openedx/openedx-platform/pull/38840",
+    "base": "c0973707f398359a9a5ed87a72204a291ac1abe7",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "openedx/openedx-platform",
+    "pr": "https://github.com/openedx/openedx-platform/pull/38842",
+    "base": "5b3eb234a052e3db849d1879f748a2c850d3207f",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@openedx/committers-openedx-platform-2u-infinity"
+    ]
+  },
+  {
+    "repo": "openedx/openedx-platform",
+    "pr": "https://github.com/openedx/openedx-platform/pull/38848",
+    "base": "fe22a5fc285b7aea9de4d79466cc4fb3b9075832",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "alphagov/govuk-frontend",
+    "pr": "https://github.com/alphagov/govuk-frontend/pull/5975",
+    "base": "281749ab9d65e0af2c1f836d57f6512520fc1200",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "alphagov/govuk-frontend",
+    "pr": "https://github.com/alphagov/govuk-frontend/pull/5976",
+    "base": "99009758c3057b2a537f960e6c0657bf5959387e",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@alphagov/design-system-developers"
+    ]
+  },
+  {
+    "repo": "alphagov/govuk-frontend",
+    "pr": "https://github.com/alphagov/govuk-frontend/pull/5985",
+    "base": "9a1c485b624283280895adc6a0299a0fc0e42e47",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "artislismanis/obsidian-agent-sandbox",
+    "pr": "https://github.com/artislismanis/obsidian-agent-sandbox/pull/222",
+    "base": "d3c228e1ebc2d3d7d96acfad5ea7d9174e4b3a71",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "artislismanis/obsidian-agent-sandbox",
+    "pr": "https://github.com/artislismanis/obsidian-agent-sandbox/pull/224",
+    "base": "e5be8588984017f21ed7cc3015280ca4f21cc5fc",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "artislismanis/obsidian-agent-sandbox",
+    "pr": "https://github.com/artislismanis/obsidian-agent-sandbox/pull/225",
+    "base": "38060028c4e7d7d3f0ff029736ae6f7336da15c7",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "lantanagroup/link-cloud",
+    "pr": "https://github.com/lantanagroup/link-cloud/pull/863",
+    "base": "ee4c1cb9a3a676560215d8c743f4b089aa495cdc",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@lantanagroup/devops"
+    ]
+  },
+  {
+    "repo": "lantanagroup/link-cloud",
+    "pr": "https://github.com/lantanagroup/link-cloud/pull/864",
+    "base": "102059826f92a2f86d6f831f52efd182d1a027c2",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "lantanagroup/link-cloud",
+    "pr": "https://github.com/lantanagroup/link-cloud/pull/866",
+    "base": "3a00c6b7f59b6ee43427f935025bdca4b77b781f",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "yuyuyuyuyu-dev/how-old-am-i",
+    "pr": "https://github.com/yuyuyuyuyu-dev/how-old-am-i/pull/66",
+    "base": "9626a7c867248f443e61f2fa1c58bfeb7d9f5f50",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@yuyuyuyuyu-dev"
+    ]
+  },
+  {
+    "repo": "yuyuyuyuyu-dev/how-old-am-i",
+    "pr": "https://github.com/yuyuyuyuyu-dev/how-old-am-i/pull/67",
+    "base": "26e08a058f5a1b88112a0b1c6f8f3ee858fe3089",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@yuyuyuyuyu-dev"
+    ]
+  },
+  {
+    "repo": "yuyuyuyuyu-dev/how-old-am-i",
+    "pr": "https://github.com/yuyuyuyuyu-dev/how-old-am-i/pull/68",
+    "base": "3108e20554e2f0e8ec4a3127b765b4dc60b69c97",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@yuyuyuyuyu-dev"
+    ]
+  },
+  {
+    "repo": "Yoast/yoast-test-helper",
+    "pr": "https://github.com/Yoast/yoast-test-helper/pull/244",
+    "base": "c89920d7c704b4b4ebdba708d52efd0adcca85c2",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "MasWag/FalCAuN",
+    "pr": "https://github.com/MasWag/FalCAuN/pull/285",
+    "base": "d4c28164a8e97ed77a373bc4a446066d85be19ee",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@MasWag"
+    ]
+  },
+  {
+    "repo": "MasWag/FalCAuN",
+    "pr": "https://github.com/MasWag/FalCAuN/pull/293",
+    "base": "dd36a3e62f3f4b9c059c3c4e3e5691af174577cb",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@MasWag"
+    ]
+  },
+  {
+    "repo": "MasWag/FalCAuN",
+    "pr": "https://github.com/MasWag/FalCAuN/pull/298",
+    "base": "4902d5dd2e2eca3c53a9acdc276c0784c133e99a",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@MasWag"
+    ]
+  },
+  {
+    "repo": "cedricziel/trueapp",
+    "pr": "https://github.com/cedricziel/trueapp/pull/14",
+    "base": "11fa406ee51a1a7e24f621ee52fb0d26118917a6",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@cedricziel"
+    ]
+  },
+  {
+    "repo": "cedricziel/trueapp",
+    "pr": "https://github.com/cedricziel/trueapp/pull/18",
+    "base": "154338a351788ea23defc36aa3a1443952c2b130",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@cedricziel"
+    ]
+  },
+  {
+    "repo": "cedricziel/trueapp",
+    "pr": "https://github.com/cedricziel/trueapp/pull/23",
+    "base": "ac101df3ceadbf1620d583a63bb549737247c33a",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": [
+      "@cedricziel"
+    ]
+  },
+  {
+    "repo": "AntoC-dev/Recipedia",
+    "pr": "https://github.com/AntoC-dev/Recipedia/pull/524",
+    "base": "b638e006aa06f58fccb7747e07fc344733b5448a",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "AntoC-dev/Recipedia",
+    "pr": "https://github.com/AntoC-dev/Recipedia/pull/526",
+    "base": "420de53da424bb4fe09a088a3dfbbe4794b79d05",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  },
+  {
+    "repo": "AntoC-dev/Recipedia",
+    "pr": "https://github.com/AntoC-dev/Recipedia/pull/528",
+    "base": "420de53da424bb4fe09a088a3dfbbe4794b79d05",
+    "same_text": true,
+    "same_pr_set": true,
+    "at_pr_base": []
+  }
+]

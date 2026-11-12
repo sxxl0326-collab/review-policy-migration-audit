@@ -1,0 +1,10 @@
+
+# Dependabot reviewers (migrated from .github/dependabot.yml)
+/Pipfile.lock @your-github-username
+/pyproject.toml @your-github-username
+/requirements.txt @your-github-username
+/setup.cfg @your-github-username
+/setup.py @your-github-username
+/Pipfile @your-github-username
+/requirements/*.txt @your-github-username
+/**/requirements/*.txt @your-github-username

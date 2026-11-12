@@ -1,0 +1,11 @@
+{
+  "repo": "toshimaru/blog.toshima.ru",
+  "index": 132,
+  "start": "2026-04-25T01:42:50+00:00",
+  "end": "2026-07-24T01:42:50+00:00",
+  "branch": "main",
+  "migration": "https://github.com/toshimaru/blog.toshima.ru/pull/264",
+  "selected": [],
+  "records": [],
+  "query": "repo:toshimaru/blog.toshima.ru is:pr is:merged base:main created:>2026-04-25T01:42:50Z merged:<=2026-07-24T01:42:50Z"
+}
