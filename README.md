@@ -1,6 +1,6 @@
 # Review policy migration audit
 
-Replication materials for *Auditing Owner Preservation and Scope in Review Policy Migration*. Read [Supplementary Information](CSCWD2027_S1.pdf) or download the [versioned artifact](https://github.com/sxxl0326-collab/review-policy-migration-audit/releases/tag/v1.0.1).
+Replication materials for *Auditing Owner Preservation and Scope in Review Policy Migration*. Read [Supplementary Information](CSCWD2027_S1.pdf) or download the [current artifact ZIP](https://raw.githubusercontent.com/sxxl0326-collab/review-policy-migration-audit/main/CSCWD2027_S1.zip).
 
 From the extracted archive or repository root, run:
 
