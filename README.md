@@ -20,3 +20,5 @@ Tested with Python 3.10. The check reads saved CODEOWNERS snapshots and path lis
 | What changed in the additional experiments? | [13 paired repositories by tool](new_cohorts/A_repositories.csv), [25 user-account PRs](new_cohorts/B_pr.csv), [including empty PR windows](new_cohorts/B_repositories.csv) |
 
 Figures 2 and 4 visualize the original cohorts. The later and archive strata contribute respectively 2 and 0 repositories with nonempty owners on a tested path. Figure 3 distinguishes actual merged policies from counterfactual tool replay. The five source descriptions are available with their evidence and review status in the history index. No itemwise human adjudication or agreement statistic is inferred.
+
+Post hoc owner/reviewer stratification: run `python check_strata.py` on the frozen context records. Owner omissions occurred in both tools in 5/5 original conflict repositories and 0/19 others. In the two new exposed repositories, old owners equaled reviewers in 42/42 and 5/5 tested bot contexts.
