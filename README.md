@@ -1,30 +1,50 @@
-# Review policy migration audit
+# Auditing Owner Preservation and Scope in Review Policy Migration
 
-Replication materials for *Auditing Owner Preservation and Scope in Review Policy Migration*. Read [Supplementary Information](CSCWD2027_S1.pdf) or download the [current artifact ZIP](https://raw.githubusercontent.com/sxxl0326-collab/review-policy-migration-audit/main/CSCWD2027_S1.zip).
+**Xiaoling Sun · Chengyan Li · Tianyu Chen · Juan Fang**
 
-From the extracted archive or repository root, run:
+Beijing University of Technology
+
+[Read the paper (PDF)](CSCWD2027-frozen.pdf) · [Supplementary information (PDF)](CSCWD2027_S1.pdf) · [Download artifact ZIP](https://raw.githubusercontent.com/sxxl0326-collab/review-policy-migration-audit/main/CSCWD2027_S1.zip) · [Reproduction guide](REPRODUCTION.md)
+
+## What the study examines
+
+GitHub’s migration from Dependabot-specific reviewer assignments to path-based CODEOWNERS rules can retain a bot reviewer while dropping another owner or changing who is declared responsible for ordinary pull requests. We replay Official and OpenRewrite on historical repository snapshots, compare their outputs with the policies maintainers merged, and trace changes to the winning rules. We also compare owner declarations before and after excluding the PR author and measure how candidate restorations affect other paths.
+
+![Paper Figure 1. The audit links historical repository evidence and actor-aware replay to declaration checks and separate project targets.](figures/audit-overview.jpg)
+
+*Figure 1 from the paper. Historical declaration checks and project acceptance are evaluated separately.*
+
+## Find the evidence
+
+| Research question | Result reported in the paper | Where to inspect it |
+| --- | --- | --- |
+| **RQ1 · Which responsibilities change?** | On 24 inputs converted by both tools, both omitted owners in the same five repositories. The two additional exposed repositories had no omissions. | [Paired repository outcomes](reviewer_entry/common24_repository_breakdown.csv) · [History-to-PR evidence, Tables III–IV](reviewer_entry/case_index.csv) · [Additional migration cohorts](new_cohorts/A_repositories.csv) |
+| **RQ2 · What remains after author exclusion?** | PRs with apparent owner additions decreased from **10/19 to 1/19** and from **7/25 to 2/25** in the two cohorts. | [Original 19 PRs, Fig. 5](reviewer_entry/pr_matrix_19.json) · [New 25 PRs](new_cohorts/B_pr.csv) · [Repository-level counts](new_cohorts/B_repositories.csv) |
+| **RQ3 · How do replays differ from merges, and how far do edits reach?** | Both replays matched the merge in all evaluated contexts for **13/24** common inputs. In the preview analysis, **13/25** attempts changed paths outside the probes. | [Agreement by repository](reviewer_entry/common24_repository_breakdown.csv) · [25 preview attempts, Table V](reviewer_entry/preview_attempt_crosswalk.csv) · [Probe and rule details](reviewer_entry/preview_probe_rules.csv) · [Path-level changes](audit_revision/semantics_preview_20261109/preview_scope_detail/all_path_differences.jsonl) |
+
+## Run the offline checks
+
+From an extracted artifact ZIP or a checkout, use Python 3.10+ from the repository root. These checks use saved files and bundled matcher dependencies.
 
 ```sh
 python new_cohorts/verify_new.py
+python check_strata.py
 ```
 
-Tested with Python 3.10. The check reads saved CODEOWNERS snapshots and path lists and recomputes 25 PR comparisons and 788 context-policy rows. Configuration records and public PR links identify software histories. Project targets, team membership and notification delivery can remain unknown.
+The first command recomputes **25 PR-level set comparisons and 788 context–policy rows**. The second checks the owner/reviewer strata against frozen records. See the [reproduction guide](REPRODUCTION.md) for expected outputs, the preview join key, and the boundary between recomputing saved results and rerunning the original migration tools.
 
-| Question | Evidence |
-|---|---|
-| Which original histories and pull requests? | [H01–H11 mapping, source passages, paths and SHAs](reviewer_entry/case_index.csv), [19-PR matrix](reviewer_entry/pr_matrix_19.json) |
-| Did the original tools agree? | [24 paired inputs](reviewer_entry/common24_repository_breakdown.csv), [original per-repository checks](previous_tables/repository_checks.csv) |
-| Which paths changed beyond the probes? | [Attempt denominators](audit_revision/semantics_preview_20261109/preview_scope_detail/attempts.csv), [path-level differences](audit_revision/semantics_preview_20261109/preview_scope_detail/all_path_differences.jsonl) |
-| What did the matcher checks cover? | [24 matcher cases](audit_revision/semantics_preview_20261109/semantic_tests/cases_and_results.json) |
-| How were the new cohorts selected? | [Frozen rules](new_cohorts/protocol.txt), [later pool](new_cohorts/selection_frame_later.json), [archive pool](new_cohorts/selection_frame_archive.json), [screening ledger](new_cohorts/wave/screening_ledger.json) |
-| What changed in the additional experiments? | [13 paired repositories by tool](new_cohorts/A_repositories.csv), [25 user-account PRs](new_cohorts/B_pr.csv), [including empty PR windows](new_cohorts/B_repositories.csv) |
+## Repository map
 
-Figures 2 and 4 visualize the original cohorts. The later and archive strata contribute respectively 2 and 0 repositories with nonempty owners on a tested path. Figure 3 distinguishes actual merged policies from counterfactual tool replay. The five source descriptions are available with their evidence and review status in the history index. No itemwise human adjudication or agreement statistic is inferred.
+| Location | Contents |
+| --- | --- |
+| [`reviewer_entry/`](reviewer_entry/) | Paper-facing indexes for historical cases, paired outcomes, PRs and previews |
+| [`new_cohorts/`](new_cohorts/) | Selection protocol, saved configurations and new-cohort verification |
+| [`previous_tables/`](previous_tables/) | Original repository-level audit records |
+| [`audit_revision/`](audit_revision/) | Matcher cases and whole-tree preview differences |
+| [`primary_and_wave1/`](primary_and_wave1/) and [`wave2_frozen_collection/`](wave2_frozen_collection/) | Historical context records, replay source and bundled matcher runtime |
+| [`figures/`](figures/) | Supporting drawings and exported figure assets. Use the manuscript for the final numbered figures. |
+| [`SHA256SUMS`](SHA256SUMS) | SHA-256 checksums for the published files |
 
-Post hoc owner/reviewer stratification: run `python check_strata.py` on the frozen context records. Owner omissions occurred in both tools in 5/5 original conflict repositories and 0/19 others. In the two new exposed repositories, old owners equaled reviewers in 42/42 and 5/5 tested bot contexts.
+## Citation
 
-## Frozen manuscript
-
-[Submission PDF](CSCWD2027-frozen.pdf) · [Editable Word](CSCWD2027-frozen.docx)
-
-For Table V, use the [25-attempt index](reviewer_entry/preview_attempt_crosswalk.csv) and [probe and rule details](reviewer_entry/preview_probe_rules.csv). Join on `attempt_id` to inspect the starting policy, winning rule, identifiers added, unmatched probes and off-probe counts.
+Xiaoling Sun, Chengyan Li, Tianyu Chen, and Juan Fang. *Auditing Owner Preservation and Scope in Review Policy Migration*. Manuscript and research artifact. Cite the Git commit used for your analysis along with the manuscript.
