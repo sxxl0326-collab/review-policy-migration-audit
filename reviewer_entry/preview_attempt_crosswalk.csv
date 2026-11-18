@@ -1,0 +1,26 @@
+﻿repo,case,policy,official_noop_start,tree_paths_checked,changed_paths,outside_probe_paths,outside_new_nonhistorical_paths,added_identifiers,outside_added_identifiers,outside_scope_transitions,attempt_id,unmatched_contexts,edited_rule_lines
+Coding-Dev-Tools/api-contract-guardian,wave1_006,actual,False,47,24,15,0,"[""@Coding-Dev-Tools/engineers""]","[""@Coding-Dev-Tools/engineers""]","{""Mixed -> Expanded"": 15}",P01,0,4
+aristanetworks/avd,wave1_021,official,False,5252,17,0,0,"[""@aristanetworks/avd-developers""]",[],{},P02,0,4
+aristanetworks/avd,wave1_021,openrewrite,False,5252,17,0,0,"[""@aristanetworks/avd-developers""]",[],{},P03,0,4
+Parsely/wp-parsely,wave1_025,actual,False,410,2,0,0,"[""@Parsely/wp-parsely""]",[],{},P04,0,2
+quynhonsemiconductor/infra-template,wave1_032,actual,False,29,4,0,0,"[""@quynhonsemiconductor""]",[],{},P05,0,1
+quynhonsemiconductor/infra-template,wave1_032,official,False,29,5,1,0,"[""@quynhonsemiconductor/platform-infra""]","[""@quynhonsemiconductor/platform-infra""]","{""Mixed -> Expanded"": 1}",P06,0,1
+quynhonsemiconductor/infra-template,wave1_032,openrewrite,False,29,4,0,0,"[""@quynhonsemiconductor/platform-infra""]",[],{},P07,0,1
+seebom-labs/BOMHort,wave1_049,actual,False,450,213,209,209,"[""@koksay""]","[""@koksay""]","{""Unchanged -> Expanded"": 209}",P08,0,2
+bbdsoftware/litellm-operator,wave1_069,actual,False,174,38,31,0,"[""@docs-team"", ""@litellm-operator-maintainers"", ""@platform-team""]","[""@docs-team"", ""@litellm-operator-maintainers"", ""@platform-team""]","{""Mixed -> Expanded"": 31}",P09,0,5
+bbdsoftware/litellm-operator,wave1_069,official,False,174,3,0,0,"[""@platform-team""]",[],{},P10,0,1
+bbdsoftware/litellm-operator,wave1_069,openrewrite,False,174,3,0,0,"[""@platform-team""]",[],{},P11,0,1
+system76/tech-docs,wave1_087,actual,False,3628,0,0,0,[],[],{},P12,3,0
+WithAutonomi/saorsa-transport,wave2_114,actual,False,520,520,501,501,"[""@dirvine""]","[""@dirvine""]","{""Unchanged -> Expanded"": 501}",P13,0,1
+WithAutonomi/saorsa-transport,wave2_114,official,False,520,18,0,0,"[""@Ralith"", ""@djc"", ""@gretchenfrage""]",[],{},P14,0,3
+WithAutonomi/saorsa-transport,wave2_114,openrewrite,False,520,29,11,0,"[""@Ralith"", ""@djc"", ""@gretchenfrage""]","[""@Ralith"", ""@djc"", ""@gretchenfrage""]","{""Mixed -> Expanded"": 11}",P15,0,3
+stackrox/stackrox,wave2_133,actual,False,11689,655,584,583,"[""@janisz"", ""@stackrox/backend-dep-updaters"", ""@stackrox/install"", ""@stackrox/scanner"", ""@stackrox/ui""]","[""@stackrox/backend-dep-updaters"", ""@stackrox/install"", ""@stackrox/scanner"", ""@stackrox/ui""]","{""Expanded -> Expanded"": 32, ""Unchanged -> Expanded"": 548, ""Mixed -> Mixed"": 3, ""Mixed -> Expanded"": 1}",P16,2,7
+stackrox/stackrox,wave2_133,official,True,11689,2887,2861,2861,"[""@stackrox/backend-dep-updaters"", ""@stackrox/ui-dep-updaters""]","[""@stackrox/backend-dep-updaters"", ""@stackrox/ui-dep-updaters""]","{""Unchanged -> Expanded"": 2861}",P17,47,5
+stackrox/stackrox,wave2_133,openrewrite,False,11689,313,258,258,"[""@janisz"", ""@stackrox/backend-dep-updaters"", ""@stackrox/install"", ""@stackrox/scanner"", ""@stackrox/ui""]","[""@stackrox/backend-dep-updaters"", ""@stackrox/scanner""]","{""Expanded -> Expanded"": 18, ""Unchanged -> Expanded"": 240}",P18,0,18
+honestica/docker-looker,wave2_150,actual,False,22,22,20,20,"[""@marcmillien"", ""@mtparet""]","[""@marcmillien"", ""@mtparet""]","{""Unchanged -> Expanded"": 20}",P19,0,1
+honestica/docker-looker,wave2_150,official,True,22,22,20,20,"[""@marcmillien"", ""@mtparet""]","[""@marcmillien"", ""@mtparet""]","{""Unchanged -> Expanded"": 20}",P20,0,1
+honestica/docker-looker,wave2_150,openrewrite,False,22,1,0,0,"[""@honestica/infra""]",[],{},P21,0,1
+buildkite/test-engine-client,wave2_151,actual,False,147,147,144,0,"[""@buildkite/test-splitting""]","[""@buildkite/test-splitting""]","{""Mixed -> Expanded"": 144}",P22,0,1
+RedHatInsights/insights-host-inventory,wave2_153,actual,False,266,266,260,260,"[""@host-based-inventory-committers""]","[""@host-based-inventory-committers""]","{""Unchanged -> Expanded"": 260}",P23,0,1
+RedHatInsights/insights-host-inventory,wave2_153,official,False,266,5,0,0,"[""@RedHatInsights/host-based-inventory-committers""]",[],{},P24,0,4
+RedHatInsights/insights-host-inventory,wave2_153,openrewrite,False,266,5,0,0,"[""@RedHatInsights/host-based-inventory-committers""]",[],{},P25,0,4
